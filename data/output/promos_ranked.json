@@ -1,0 +1,3816 @@
+{
+  "promos": [
+    {
+      "promo_id": "P17",
+      "episodes_spanned": [
+        32
+      ],
+      "segments": [
+        {
+          "episode": 32,
+          "start_line": 113,
+          "end_line": 117,
+          "start_timestamp": "02:28.00",
+          "end_timestamp": "02:34.38",
+          "word_count": 95
+        }
+      ],
+      "hook": "Catherine hoists a searing branding iron directly over a chained Juliana.",
+      "cliffhanger": "The iron poker stops mere millimeters from Juliana's eye as the screen cuts to black, leaving her fate hanging.",
+      "rationale": "High-stakes physical danger right at the opening makes an instant visual hook.",
+      "word_count": 95,
+      "est_duration_sec": 6.4,
+      "scores": {
+        "hook_velocity": 10.0,
+        "context_independence": 8.0,
+        "cliffhanger_friction": 10.0
+      },
+      "total_score": 9.4,
+      "tier": "Tier 1: Post Immediately",
+      "qc_flags": [
+        {
+          "code": "word_budget",
+          "severity": "warn",
+          "message": "95 words < 100 min.",
+          "suggestion": "Extend the segment or merge with the payoff scene."
+        },
+        {
+          "code": "pacing_too_short",
+          "severity": "warn",
+          "message": "Estimated 6s < 20s.",
+          "suggestion": ""
+        },
+        {
+          "code": "verify_cliffhanger_in_footage",
+          "severity": "warn",
+          "message": "Cliffhanger rests on an action/cut line. The final edit may defuse the tension.",
+          "suggestion": "Watch the footage; confirm the beat lands, or adjust the end timestamp."
+        },
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: The exact historical rivalry or offense that led Catherine to brand Juliana is unspecified.",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          32,
+          113
+        ],
+        [
+          32,
+          114
+        ],
+        [
+          32,
+          115
+        ],
+        [
+          32,
+          116
+        ],
+        [
+          32,
+          117
+        ]
+      ],
+      "text": "ACTION: Catherine hoists the searing branding rod over Juliana with frantic fury.\nCATHERINE (Screaming, Maniacal): \"Then let's see how brave you are when it touches your skin!\"\nCAMERA: Medium shot of Catherine plunging the glowing orange poker straight toward Juliana's face.\nACTION: Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping mere millimeters from her right eye.\nCAMERA: Extreme close-up of Juliana's wide, unblinking blue eye. The intense, fiery orange glow of the iron poker radiates inches from her cornea, holding on the heart-stopping cliffhanger as the frame cuts to black."
+    },
+    {
+      "promo_id": "P3",
+      "episodes_spanned": [
+        3
+      ],
+      "segments": [
+        {
+          "episode": 3,
+          "start_line": 49,
+          "end_line": 55,
+          "start_timestamp": "01:00.50",
+          "end_timestamp": "01:06.00",
+          "word_count": 90
+        },
+        {
+          "episode": 3,
+          "start_line": 112,
+          "end_line": 116,
+          "start_timestamp": "02:13.20",
+          "end_timestamp": "02:20.30",
+          "word_count": 78
+        }
+      ],
+      "hook": "Guards forcefully grab Lady Juliana by both shoulders and drag her backwards down the cathedral aisle.",
+      "cliffhanger": "The Bearded Stranger drops to one knee and asks Lady Juliana to accept his hand, leaving the family in shock.",
+      "rationale": "High-impact public humiliation followed by an unexpected proposal creates immediate dramatic tension.",
+      "word_count": 168,
+      "est_duration_sec": 12.6,
+      "scores": {
+        "hook_velocity": 10.0,
+        "context_independence": 8.0,
+        "cliffhanger_friction": 8.0
+      },
+      "total_score": 8.8,
+      "tier": "Tier 1: Post Immediately",
+      "qc_flags": [
+        {
+          "code": "pacing_too_short",
+          "severity": "warn",
+          "message": "Estimated 13s < 20s.",
+          "suggestion": ""
+        },
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: unexplained hostility from the guards/congregation towards Lady Juliana; the exact identity and motives of the Bearded Stranger",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          3,
+          49
+        ],
+        [
+          3,
+          50
+        ],
+        [
+          3,
+          51
+        ],
+        [
+          3,
+          52
+        ],
+        [
+          3,
+          53
+        ],
+        [
+          3,
+          54
+        ],
+        [
+          3,
+          55
+        ],
+        [
+          3,
+          112
+        ],
+        [
+          3,
+          113
+        ],
+        [
+          3,
+          114
+        ],
+        [
+          3,
+          115
+        ],
+        [
+          3,
+          116
+        ]
+      ],
+      "text": "ACTION: The guards forcefully grab Juliana by both shoulders and drag her backwards.\nLADY JULIANA (Screaming, Resisting): \"Let me go!\"\nCAMERA: Close-up of Juliana's hand frantically grabbing the wooden rim of a pew, knuckles white with strain.\nLADY JULIANA (Desperate, Begging): \"Please! Someone!\"\nACTION: The guards tear her grip away from the pew.\nSOUND FX: Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone.\nCAMERA: High wide shot down the vaulted cathedral aisle showing the entire congregation watching in stunned silence as the guards drag Juliana.\n[CUT]\nACTION: The Bearded Stranger sinks to one knee on the cathedral aisle, offering the silver ring up to Juliana.\nSOUND FX: A collective, stunned gasp rippling across the entire congregation.\nCAMERA: Medium shot of the Noble Matriarch, Gerald, and the Lady in Gold Gown frozen in sheer, jaw-dropped bewilderment.\nCAMERA: Low-angle medium close-up of The Bearded Stranger on his knee, holding the silver ring high with steady dignity.\nTHE BEARDED STRANGER (Solemn, Devoted): \"Lady Juliana... accept my hand.\""
+    },
+    {
+      "promo_id": "P26",
+      "episodes_spanned": [
+        50
+      ],
+      "segments": [
+        {
+          "episode": 50,
+          "start_line": 36,
+          "end_line": 40,
+          "start_timestamp": "01:14.00",
+          "end_timestamp": "01:20.00",
+          "word_count": 89
+        }
+      ],
+      "hook": "Agnes catches Catherine and the shirtless priest in a passionate, forbidden embrace.",
+      "cliffhanger": "Agnes stumbling back into the shadows after uncovering a lethal secret, cutting abruptly to black.",
+      "rationale": "A quick, explosive voyeuristic hook and betrayal climax that immediately hooks thriller fans.",
+      "word_count": 89,
+      "est_duration_sec": 6.0,
+      "scores": {
+        "hook_velocity": 9.0,
+        "context_independence": 9.0,
+        "cliffhanger_friction": 8.0
+      },
+      "total_score": 8.7,
+      "tier": "Tier 1: Post Immediately",
+      "qc_flags": [
+        {
+          "code": "word_budget",
+          "severity": "warn",
+          "message": "89 words < 100 min.",
+          "suggestion": "Extend the segment or merge with the payoff scene."
+        },
+        {
+          "code": "pacing_too_short",
+          "severity": "warn",
+          "message": "Estimated 6s < 20s.",
+          "suggestion": ""
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          50,
+          36
+        ],
+        [
+          50,
+          37
+        ],
+        [
+          50,
+          38
+        ],
+        [
+          50,
+          39
+        ],
+        [
+          50,
+          40
+        ]
+      ],
+      "text": "ACTION: Through the crack of the door, Agnes sees Catherine and the shirtless priest locked in an intimate, passionate embrace upon the bed.\nCAMERA: Tight close-up on Agnes's face, drained of all color, her eyes bulging in pure terror.\nACTION: Agnes's jaw drops open in shock as she stifles a cry.\nSOUND FX: Sharp, terrified gasp catching in Agnes's throat.\nCAMERA: Frantic backward tracking close-up on Agnes stumbling back into the shadows of the hallway, horrified by the lethal secret she has uncovered before an abrupt cut to black."
+    },
+    {
+      "promo_id": "P1",
+      "episodes_spanned": [
+        1
+      ],
+      "segments": [
+        {
+          "episode": 1,
+          "start_line": 27,
+          "end_line": 43,
+          "start_timestamp": "00:39.10",
+          "end_timestamp": "01:05.60",
+          "word_count": 206
+        }
+      ],
+      "hook": "Lady in Gold Gown cruelly announces she is marrying Gerald instead",
+      "cliffhanger": "Juliana asks if he swore he loved her, leaving his betrayal hanging in the balance.",
+      "rationale": "Starts immediately with the shocking wedding betrayal and ends on raw emotional devastation.",
+      "word_count": 206,
+      "est_duration_sec": 26.5,
+      "scores": {
+        "hook_velocity": 8.0,
+        "context_independence": 9.0,
+        "cliffhanger_friction": 9.0
+      },
+      "total_score": 8.6,
+      "tier": "Tier 1: Post Immediately",
+      "qc_flags": [
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Unexplained relationship between the Lady in Gold Gown and Juliana (revealed later as sisters, but initially ambiguous)",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          1,
+          27
+        ],
+        [
+          1,
+          28
+        ],
+        [
+          1,
+          29
+        ],
+        [
+          1,
+          30
+        ],
+        [
+          1,
+          31
+        ],
+        [
+          1,
+          32
+        ],
+        [
+          1,
+          33
+        ],
+        [
+          1,
+          34
+        ],
+        [
+          1,
+          35
+        ],
+        [
+          1,
+          36
+        ],
+        [
+          1,
+          37
+        ],
+        [
+          1,
+          38
+        ],
+        [
+          1,
+          39
+        ],
+        [
+          1,
+          40
+        ],
+        [
+          1,
+          41
+        ],
+        [
+          1,
+          42
+        ],
+        [
+          1,
+          43
+        ]
+      ],
+      "text": "LADY IN GOLD GOWN (Gloating, Smug): \"Because he is marrying me.\"\nCAMERA: Close-up on Juliana as tears spill over her eyelashes.\nLADY JULIANA (Gasping, Devastated): \"No...\"\nCAMERA: Wide profile shot showing Juliana standing below the altar platform, looking up at Gerald and her sister.\nCAMERA: Close-up on Juliana clutching her chest, her sorrow turning into burning outrage.\nLADY JULIANA (Outraged, Accusing): \"You knew this before I walked through those doors!\"\nCAMERA: Medium shot of Gerald standing stoic and impassive next to the smug Lady in Gold Gown.\nCAMERA: Close-up on Juliana's hands desperately clenching fistfuls of her white dress fabric.\nLADY JULIANA (Choking on Tears): \"You let me come here...\"\nCAMERA: Close-up on Juliana's tear-streaked face as she shakes with grief.\nLADY JULIANA (Crushed, Shaking): \"You let me dress in my mother's gown...\"\nLADY JULIANA (Crying Out): \"You let me believe I was walking toward my husband!\"\nCAMERA: Medium shot on Gerald stepping forward, cold and indifferent, with the Lady in Gold Gown lingering in soft focus behind him.\nCAMERA: Tight close-up on Gerald's hardened profile as he glances down.\nTHE FORMER GROOM (Cold, Callous): \"I changed my mind.\"\nCAMERA: Extreme close-up on Juliana's furious, weeping face.\nLADY JULIANA (Betrayed, Piercing): \"You swore you loved me!\""
+    },
+    {
+      "promo_id": "P7",
+      "episodes_spanned": [
+        11
+      ],
+      "segments": [
+        {
+          "episode": 11,
+          "start_line": 16,
+          "end_line": 84,
+          "start_timestamp": "00:16.80",
+          "end_timestamp": "01:46.60",
+          "word_count": 855
+        }
+      ],
+      "hook": "Gerald aggressively accuses Alexander of stealing his gold pocket watch.",
+      "cliffhanger": "Gerald's face erupts into an ecstatic, wicked grin and triumphant laughter as the stolen watch is pulled from the coat, leaving viewers wondering how Alexander will escape this setup.",
+      "rationale": "High-stakes theft accusation with dramatic tension, betrayal, and a classic setup cliffhanger perfect for social media engagement.",
+      "word_count": 855,
+      "est_duration_sec": 89.8,
+      "scores": {
+        "hook_velocity": 8.0,
+        "context_independence": 9.0,
+        "cliffhanger_friction": 9.0
+      },
+      "total_score": 8.6,
+      "tier": "Hold: fix QC errors",
+      "qc_flags": [
+        {
+          "code": "word_budget",
+          "severity": "error",
+          "message": "855 words > 600 max.",
+          "suggestion": "Trim filler lines or drop a stitched segment."
+        },
+        {
+          "code": "pacing_too_long",
+          "severity": "error",
+          "message": "Estimated 90s (pauses/crying included) > 60s.",
+          "suggestion": "Cut lines; verify real runtime on footage."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          11,
+          16
+        ],
+        [
+          11,
+          17
+        ],
+        [
+          11,
+          18
+        ],
+        [
+          11,
+          19
+        ],
+        [
+          11,
+          20
+        ],
+        [
+          11,
+          21
+        ],
+        [
+          11,
+          22
+        ],
+        [
+          11,
+          23
+        ],
+        [
+          11,
+          24
+        ],
+        [
+          11,
+          25
+        ],
+        [
+          11,
+          26
+        ],
+        [
+          11,
+          27
+        ],
+        [
+          11,
+          28
+        ],
+        [
+          11,
+          29
+        ],
+        [
+          11,
+          30
+        ],
+        [
+          11,
+          31
+        ],
+        [
+          11,
+          32
+        ],
+        [
+          11,
+          33
+        ],
+        [
+          11,
+          34
+        ],
+        [
+          11,
+          35
+        ],
+        [
+          11,
+          36
+        ],
+        [
+          11,
+          37
+        ],
+        [
+          11,
+          38
+        ],
+        [
+          11,
+          39
+        ],
+        [
+          11,
+          40
+        ],
+        [
+          11,
+          41
+        ],
+        [
+          11,
+          42
+        ],
+        [
+          11,
+          43
+        ],
+        [
+          11,
+          44
+        ],
+        [
+          11,
+          45
+        ],
+        [
+          11,
+          46
+        ],
+        [
+          11,
+          47
+        ],
+        [
+          11,
+          48
+        ],
+        [
+          11,
+          49
+        ],
+        [
+          11,
+          50
+        ],
+        [
+          11,
+          51
+        ],
+        [
+          11,
+          52
+        ],
+        [
+          11,
+          53
+        ],
+        [
+          11,
+          54
+        ],
+        [
+          11,
+          55
+        ],
+        [
+          11,
+          56
+        ],
+        [
+          11,
+          57
+        ],
+        [
+          11,
+          58
+        ],
+        [
+          11,
+          59
+        ],
+        [
+          11,
+          60
+        ],
+        [
+          11,
+          61
+        ],
+        [
+          11,
+          62
+        ],
+        [
+          11,
+          63
+        ],
+        [
+          11,
+          64
+        ],
+        [
+          11,
+          65
+        ],
+        [
+          11,
+          66
+        ],
+        [
+          11,
+          67
+        ],
+        [
+          11,
+          68
+        ],
+        [
+          11,
+          69
+        ],
+        [
+          11,
+          70
+        ],
+        [
+          11,
+          71
+        ],
+        [
+          11,
+          72
+        ],
+        [
+          11,
+          73
+        ],
+        [
+          11,
+          74
+        ],
+        [
+          11,
+          75
+        ],
+        [
+          11,
+          76
+        ],
+        [
+          11,
+          77
+        ],
+        [
+          11,
+          78
+        ],
+        [
+          11,
+          79
+        ],
+        [
+          11,
+          80
+        ],
+        [
+          11,
+          81
+        ],
+        [
+          11,
+          82
+        ],
+        [
+          11,
+          83
+        ],
+        [
+          11,
+          84
+        ]
+      ],
+      "text": "GERALD (Aggressive, Snarl): \"Your husband stole my gold pocket watch!\"\nCAMERA: Close-up of Juliana recoiling in utter disbelief.\nJULIANA (Incredulous, Gasping): \"What? When?\"\nCAMERA: Close-up of Gerald narrowing his eyes vindictively.\nGERALD (Cold, Certain): \"The last time I came here.\"\nCAMERA: Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her.\nJULIANA (Contemptuous, Outraged): \"You never even entered the cottage!\"\nCAMERA: Close-up of Gerald smirking with condescending amusement.\nGERALD (Smug, Threatening): \"Then you should have nothing to fear from a search.\"\nCAMERA: Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle.\nJULIANA (Adamant, Protective): \"Alexander would never steal from you.\"\nCAMERA: Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter.\nGERALD (Mocking, Spiteful): \"Of course you would defend him. You married a beggar!\"\nCAMERA: Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid.\nALEXANDER (Low, Menacing): \"Choose your next words carefully.\"\nCAMERA: Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm.\nGERALD (Shouting, Dramatic): \"You hear that? He threatens me again!\"\nCAMERA: Medium shot of the Constable marching into frame between them, holding his truncheon horizontally.\nCONSTABLE (Authoritative, Stern): \"I have received a complaint of theft.\"\nCAMERA: Extreme close-up of Juliana, defiant and resolute.\nJULIANA (Fierce): \"A complaint is not proof.\"\nCAMERA: Close-up of the Constable gesturing with his truncheon toward the cottage door.\nCONSTABLE (Cold, Procedural): \"Then a search will settle the matter.\"\nCAMERA: Medium shot of Juliana backing up to the doorway, spreading her arms wide to block the entrance.\nJULIANA (Desperate, Shouting): \"You cannot simply invade our home because this man makes an accusation!\"\nCAMERA: Medium close-up of Gerald crossing his arms smugly.\nGERALD (Taunting): \"If he has nothing to hide...\"\nCAMERA: Extreme close-up push-in on Alexander's scarred face, his eyes smoldering with lethal restraint.\nGERALD (O.S., Smug): \"...let the constable search.\"\nALEXANDER (Dark, Grated): \"Search it.\"\nCAMERA: Medium two-shot of Juliana looking up at Alexander in panicked confusion.\nALEXANDER (Resigned, Calm): \"Let them.\"\nCAMERA: Medium shot looking out the doorway as Juliana steps aside and the Constable barges past into the dimly lit cottage.\nSOUND FX: Heavy thud of boots entering wooden floorboards, followed by forceful banging of furniture.\nACTION: The Constable begins violently overturning crates and dumping contents across the floor.\nCAMERA: Medium low-angle shot of Juliana dropping to her knees, frantically trying to salvage bundles of dried herbs scattering across the boards.\nJULIANA (Distressed, Pleading): \"Stop! Those are my mother's medicines!\"\nACTION: The Constable aggressively pulls folded bed linens from a shelf and hurls them onto the damp floor.\nCAMERA: Low-angle close-up of Juliana crawling on the floor, looking up with tears streaming down her cheeks.\nJULIANA (Crying, Desperate): \"Please! There is nothing here!\"\nCAMERA: Close-up of the Constable's hands flipping open a small wooden keepsake box on a work table.\nCONSTABLE (Cold, Indifferent): \"Then you have nothing to fear.\"\nCAMERA: Low-angle close-up of Juliana clutching the fallen linens to her chest, her voice breaking.\nJULIANA (Heartbroken, Sobbing): \"Those are all I have left!\"\nCAMERA: Medium shot of Gerald leaning casually against the cottage doorframe, looking around with contemptuous disgust.\nGERALD (Cruel, Condescending): \"Stand aside. Look at this place. A perfect hiding hole for a thief.\"\nCAMERA: Medium shot of Juliana rising to her feet, clutching the folded cloth, her face contorting with rage.\nJULIANA (Furious, Accusatory): \"You planted this accusation because you cannot bear that I am happy without you!\"\nCAMERA: Tight close-up of Gerald's face chilling into a cold sneer.\nGERALD (Scoffing, Sinister): \"Happy?\"\nCAMERA: Medium shot of Alexander standing in the cottage shadows, eyes locked onto Gerald.\nCAMERA: Extreme close-up of Alexander's right hand slowly tightening into a white-knuckled fist.\nCAMERA: Low-angle close-up of Gerald tilting his chin up, daringly baiting Alexander.\nGERALD (Provoking, Smirking): \"What is it, soldier? Going to strike a gentleman in front of his wife?\"\nJULIANA (Whispering, Terrified): \"Don't!\"\nCAMERA: Close-up of Juliana clutching her dress collar in acute panic.\nALEXANDER (V.O., Haunted, Resolute): \"One blow would end this.\"\nCAMERA: Medium shot of the Constable stepping up behind Alexander, holding his truncheon firmly across Alexander's chest to restrain him, cutting to a tight close-up of Alexander's smoldering eyes.\nALEXANDER (V.O., Pained, Selfless): \"But one blow would destroy her life.\"\nCAMERA: Medium shot of the Constable turning to Alexander's heavy trench coat hanging on an iron wall hook by the fireplace.\nACTION: The Constable grabs the coat by the collar and begins rummaging through its deep pockets.\nJULIANA (Startled, Shouting): \"That is his coat!\"\nCAMERA: Close-up of the Constable's hand sliding deep inside the inner coat lining and withdrawing a gleaming gold pocket watch with an attached chain.\nSOUND FX: Metallic clinking of the gold chain sliding against fabric.\nCAMERA: Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock and shattered disbelief.\nACTION: Juliana draws a sharp, terrified breath as her face pales completely.\nCAMERA: Extreme close-up of Alexander's face hardening into lethal, icy comprehension, realizing the depth of the frame-up.\nCAMERA: Medium close-up push-in on Gerald's face erupting into an ecstatic, wicked grin, bursting into triumphant laughter.\nGERALD (Gloating, Victorious): \"There it is. Ha!\""
+    },
+    {
+      "promo_id": "P16",
+      "episodes_spanned": [
+        31
+      ],
+      "segments": [
+        {
+          "episode": 31,
+          "start_line": 5,
+          "end_line": 87,
+          "start_timestamp": "00:04.20",
+          "end_timestamp": "02:40.00",
+          "word_count": 1134
+        }
+      ],
+      "hook": "Catherine enters the dark dungeon holding a smoldering hot poker and a charred botanical book to torture Juliana.",
+      "cliffhanger": "The glowing orange ember of the hot poker stops inches from Juliana's eye as she cowers against the dungeon wall, leaving her fate unresolved.",
+      "rationale": "A gripping confrontation in a dungeon that highlights intense psychological torture, resilience, and a high-stakes cliffhanger ideal for retention.",
+      "word_count": 1134,
+      "est_duration_sec": 155.8,
+      "scores": {
+        "hook_velocity": 8.0,
+        "context_independence": 9.0,
+        "cliffhanger_friction": 9.0
+      },
+      "total_score": 8.6,
+      "tier": "Hold: fix QC errors",
+      "qc_flags": [
+        {
+          "code": "word_budget",
+          "severity": "error",
+          "message": "1134 words > 600 max.",
+          "suggestion": "Trim filler lines or drop a stitched segment."
+        },
+        {
+          "code": "pacing_too_long",
+          "severity": "error",
+          "message": "Estimated 156s (pauses/crying included) > 60s.",
+          "suggestion": "Cut lines; verify real runtime on footage."
+        },
+        {
+          "code": "verify_cliffhanger_in_footage",
+          "severity": "warn",
+          "message": "Cliffhanger rests on an action/cut line. The final edit may defuse the tension.",
+          "suggestion": "Watch the footage; confirm the beat lands, or adjust the end timestamp."
+        },
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Gerald; Clarisse",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          31,
+          5
+        ],
+        [
+          31,
+          6
+        ],
+        [
+          31,
+          7
+        ],
+        [
+          31,
+          8
+        ],
+        [
+          31,
+          9
+        ],
+        [
+          31,
+          10
+        ],
+        [
+          31,
+          11
+        ],
+        [
+          31,
+          12
+        ],
+        [
+          31,
+          13
+        ],
+        [
+          31,
+          14
+        ],
+        [
+          31,
+          15
+        ],
+        [
+          31,
+          16
+        ],
+        [
+          31,
+          17
+        ],
+        [
+          31,
+          18
+        ],
+        [
+          31,
+          19
+        ],
+        [
+          31,
+          20
+        ],
+        [
+          31,
+          21
+        ],
+        [
+          31,
+          22
+        ],
+        [
+          31,
+          23
+        ],
+        [
+          31,
+          24
+        ],
+        [
+          31,
+          25
+        ],
+        [
+          31,
+          26
+        ],
+        [
+          31,
+          27
+        ],
+        [
+          31,
+          28
+        ],
+        [
+          31,
+          29
+        ],
+        [
+          31,
+          30
+        ],
+        [
+          31,
+          31
+        ],
+        [
+          31,
+          32
+        ],
+        [
+          31,
+          33
+        ],
+        [
+          31,
+          34
+        ],
+        [
+          31,
+          35
+        ],
+        [
+          31,
+          36
+        ],
+        [
+          31,
+          37
+        ],
+        [
+          31,
+          38
+        ],
+        [
+          31,
+          39
+        ],
+        [
+          31,
+          40
+        ],
+        [
+          31,
+          41
+        ],
+        [
+          31,
+          42
+        ],
+        [
+          31,
+          43
+        ],
+        [
+          31,
+          44
+        ],
+        [
+          31,
+          45
+        ],
+        [
+          31,
+          46
+        ],
+        [
+          31,
+          47
+        ],
+        [
+          31,
+          48
+        ],
+        [
+          31,
+          49
+        ],
+        [
+          31,
+          50
+        ],
+        [
+          31,
+          51
+        ],
+        [
+          31,
+          52
+        ],
+        [
+          31,
+          53
+        ],
+        [
+          31,
+          54
+        ],
+        [
+          31,
+          55
+        ],
+        [
+          31,
+          56
+        ],
+        [
+          31,
+          57
+        ],
+        [
+          31,
+          58
+        ],
+        [
+          31,
+          59
+        ],
+        [
+          31,
+          60
+        ],
+        [
+          31,
+          61
+        ],
+        [
+          31,
+          62
+        ],
+        [
+          31,
+          63
+        ],
+        [
+          31,
+          64
+        ],
+        [
+          31,
+          65
+        ],
+        [
+          31,
+          66
+        ],
+        [
+          31,
+          67
+        ],
+        [
+          31,
+          68
+        ],
+        [
+          31,
+          69
+        ],
+        [
+          31,
+          70
+        ],
+        [
+          31,
+          71
+        ],
+        [
+          31,
+          72
+        ],
+        [
+          31,
+          73
+        ],
+        [
+          31,
+          74
+        ],
+        [
+          31,
+          75
+        ],
+        [
+          31,
+          76
+        ],
+        [
+          31,
+          77
+        ],
+        [
+          31,
+          78
+        ],
+        [
+          31,
+          79
+        ],
+        [
+          31,
+          80
+        ],
+        [
+          31,
+          81
+        ],
+        [
+          31,
+          82
+        ],
+        [
+          31,
+          83
+        ],
+        [
+          31,
+          84
+        ],
+        [
+          31,
+          85
+        ],
+        [
+          31,
+          86
+        ],
+        [
+          31,
+          87
+        ]
+      ],
+      "text": "CAMERA: Full shot framed through the arched doorway. Catherine stands imperiously in an ornate, gold-embroidered violet gown, holding a smoldering hot poker and a charred leather-bound book, flanked by two stone-faced guards with lanterns.\nCATHERINE (Cruel, Condescending): \"Look at you.\"\nCAMERA: Low-angle close-up of Juliana looking up from the stone floor, her gaze hardening despite her fear.\nCAMERA: Tight close-up of Catherine's face, bathed in the orange flickering glow of the red-hot branding iron, smiling with pure malice.\nCATHERINE (Mocking, Venomous): \"The great Lady Juliana Ashcroft.\"\nCAMERA: Over-the-shoulder wide shot past Catherine looking down at Juliana shackled helplessly on the wet stone floor.\nCATHERINE (Taunting): \"Chained in a dungeon like a common criminal.\"\nCAMERA: Close-up of Juliana, her eyes glistening with unshed tears, speaking with quiet defiance.\nJULIANA (Defiant, Steady): \"You seem very pleased.\"\nCAMERA: Low-angle shot looking up at Catherine towering over Juliana, holding the glowing poker at her side.\nCATHERINE (Smug, Chilling): \"I am.\"\nCAMERA: Extreme close-up of the bent, white-hot tip of the poker radiating heat, with Catherine's face blurred in the background as she gazes down with predatory pleasure.\nCATHERINE (Whispering, Sinister): \"Because this is what you were always meant to be.\"\nCAMERA: Over-the-shoulder medium shot focusing on Juliana as Catherine presents the charred, singed pages of the botanical book.\nCATHERINE (Scornful): \"Your family dressed you like a lady. They educated you. They gave you a respectable name.\"\nCAMERA: Close-up of Catherine's face breaking into an arrogant, haughty laugh.\nCATHERINE (Amused, Spiteful): \"[chuckles] And still you became a disgrace.\"\nCAMERA: Tight close-up of Juliana's fierce, unwavering gaze as she retorts without hesitation.\nJULIANA (Fierce, Unbroken): \"I became a disgrace when I refused to become cruel.\"\nCAMERA: Close-up of Catherine scowling, cutting back to a shot of Juliana's bare, chained feet locked in iron manacles against the cold stone floor.\nCATHERINE (Cold, Bitter): \"No. You became a disgrace when Gerald left you standing at the altar.\"\nCAMERA: Medium shot from floor level looking up at Catherine leaning closer, savoring Juliana's humiliation.\nCATHERINE (Gloating): \"Do you remember?\"\nACTION: Juliana stares up, her breathing steadying as she refuses to break under Catherine's barbs.\nCATHERINE (Viciously Delighted): \"Everyone saw you. Everyone watched him chose Clarisse.\"\nCAMERA: Close-up of the red-hot iron hovering over the damp stone floor, rising steam and heat waves warping the air, before cutting to Catherine's gloating expression.\nSOUND FX: Faint sizzling and hissing as ambient moisture touches the scalding iron tip.\nCATHERINE (Quietly Venomous): \"And everyone watched you walk away alone.\"\nCAMERA: Close-up pushing in on Juliana's illuminated, dignified face.\nJULIANA (Proud, Measured): \"Gerald chose money.\"\nJULIANA (Resolute): \"Clarissa chose a coward.\"\nJULIANA (Unyielding): \"I chose myself.\"\nCAMERA: Close-up of Catherine's face tightening in disgust.\nCATHERINE (Disgusted): \"You chose a beggar.\"\nCAMERA: Low-angle shot of Juliana lifting her chin with unwavering pride.\nJULIANA (Fierce, Proud): \"I chose a man.\"\nCAMERA: Medium shot of Catherine sneering down at her.\nCATHERINE (Contemptuous): \"A scarred nobody.\"\nCAMERA: Medium shot of Juliana sitting erect against the dungeon wall, her hands resting calmly in her lap.\nJULIANA (Resolute, Dignified): \"A man with more honor than the people sitting above this dungeon.\"\nCAMERA: Medium close-up of Catherine, holding the smoldering iron between them.\nCATHERINE (Incredulous, Mocking): \"You call that marriage?\"\nCAMERA: Extreme close-up of Juliana's clear blue eyes, shining with profound conviction.\nJULIANA (Pure, Sincere): \"I call it love.\"\nCAMERA: High-angle wide shot looking straight down through the ceiling iron grating into the deep dungeon shaft where Catherine looms over Juliana.\nCATHERINE (Mocking, Hysterical Laugh): \"[laughs] Love? Look where your precious love brought you.\"\nCAMERA: Medium close-up of Juliana looking directly up past the glowing tip of the iron poker into Catherine's eyes.\nJULIANA (Firm, Piercing): \"To a place where I can still look you in the eyes.\"\nCAMERA: Close-up of Catherine, her lips curling in indignant disbelief.\nCATHERINE (Incredulous, Offended): \"You think love makes you better than me?\"\nCAMERA: Close-up of Juliana speaking calmly and razor-sharp.\nJULIANA (Calm, Cutting): \"No. But cruelty certainly doesn't make you better than me.\"\nCAMERA: Medium shot of Catherine sweeping her arm out, flaunting her aristocratic privilege and opulence.\nCATHERINE (Incensed, Boastful): \"I have beauty, money, family, status! What do you have?\"\nCAMERA: Close-up of Juliana, her expression serene and grounded in moral superiority.\nJULIANA (Quiet, Powerful): \"Knowledge. Love. And people who need me.\"\nCAMERA: Tight shot of Catherine's gloved hands holding Juliana's mother's partially burned botanical volume, 'The Virtues of Plants & Herbs'.\nCATHERINE (Sneering, Derisive): \"[scoffs] Peasants? People?\"\nCAMERA: Medium shot of Catherine casually holding the ancient book while pacing slowly before Juliana.\nCATHERINE (Arrogant, Elitist): \"That is why you were born in the wrong world. Women like me are meant to be admired. Women like you are meant to serve.\"\nCAMERA: Tight close-up of Juliana's face, tilting her head with an insightful, knowing smirk.\nJULIANA (Piercing, Provocative): \"Then why are you so desperate to make me kneel?\"\nACTION: Catherine's smug expression freezes, her eyes widening in momentary shock and fury as the blow lands squarely.\nCAMERA: Low-angle medium shot of Juliana, her voice ringing clearly through the subterranean chamber.\nJULIANA (Accusatory, Commanding): \"If you were truly powerful, Catherine, you wouldn't need me to bow.\"\nCAMERA: Close-up of Catherine completely losing control, her aristocratic facade shattering into sheer rage.\nCATHERINE (Enraged Scream): \"Enough!\"\nCAMERA: Close-up of the red-hot poker pressing directly down into the delicate open pages of the botanical book.\nSOUND FX: Hiss of scorched parchment and curling white smoke rising as paper blackens under extreme heat.\nCAMERA: Medium two-shot. Catherine holds the smoldering book right before Juliana's face.\nCATHERINE (Hateful, Malicious): \"This pathetic book is the only thing you still have from your mother.\"\nCAMERA: Extreme close-up of Juliana, her emotional composure breaking into pure grief and panic.\nACTION: Tears spill rapidly down Juliana's cheeks as she reaches forward in vain, restrained by her heavy iron chains.\nJULIANA (Desperate, Weeping): \"[gasping] Give it back!\"\nCAMERA: Low-angle shot of Catherine grinning with sadistic triumph, looking down at Juliana's despair.\nCATHERINE (Gloating, Sadistic): \"There. Finally. Something still hurts you.\"\nCAMERA: Close-up of Juliana screaming out in absolute anguish.\nJULIANA (Screaming, Agonized): \"No!\"\nCAMERA: Medium close-up of Catherine slowly driving the glowing branding tip into the spine of the open book, watching the embers consume the pages.\nCATHERINE (Vicious, Final): \"One flame, and your mother's life's work becomes ash.\"\nCAMERA: Low-angle medium shot. Catherine lowers the charred book and suddenly swings the glowing orange iron tip straight up toward Juliana's face.\nACTION: Juliana recoils back against the hard dungeon wall, gasping for breath in raw terror as the searing iron stops inches from her eyes.\nCAMERA: Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhanger before an abrupt cut."
+    },
+    {
+      "promo_id": "P27",
+      "episodes_spanned": [
+        1
+      ],
+      "segments": [
+        {
+          "episode": 1,
+          "start_line": 1,
+          "end_line": 14,
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:25.00",
+          "word_count": 149
+        }
+      ],
+      "hook": "Grand cathedral doors swinging open to reveal Elena in a white gown only to find her groom marrying her sister.",
+      "cliffhanger": "Elena's tearful face hardening into cold defiance as strings swell to an ominous cliffhanger peak before cutting to black.",
+      "rationale": "Classic wedding betrayal trope with an instant emotional turnaround that guarantees high viewer retention.",
+      "word_count": 149,
+      "est_duration_sec": 25.0,
+      "scores": {
+        "hook_velocity": 8.0,
+        "context_independence": 10.0,
+        "cliffhanger_friction": 8.0
+      },
+      "total_score": 8.6,
+      "tier": "Tier 1: Post Immediately",
+      "qc_flags": [],
+      "needs_human_review": false,
+      "covered_lines": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          1,
+          9
+        ],
+        [
+          1,
+          10
+        ],
+        [
+          1,
+          11
+        ],
+        [
+          1,
+          12
+        ],
+        [
+          1,
+          13
+        ],
+        [
+          1,
+          14
+        ]
+      ],
+      "text": "CAMERA: Wide shot of grand cathedral doors swinging open to reveal ELENA in a white gown.\nACTION: Elena pauses at the threshold, her expression bright with joyful anticipation.\nCAMERA: Close-up on Elena's face as her warm smile falters into confusion.\nELENA (Confused, Breathless): \"Why is everyone staring at me?\"\nCAMERA: Medium shot at the altar showing MARCUS holding the hand of VICTORIA in a gold gown.\nELENA (Heartbroken): \"Marcus? Why are you holding her hand?\"\nVICTORIA (Gloating, Smug): \"Because he is marrying me, sister.\"\nELENA (Gasping, Devastated): \"No...\"\nACTION: Elena looks at the document on the altar — a marriage contract with Victoria's name.\nMARCUS (Cold, Callous): \"I changed my mind.\"\nCAMERA: Push-in close-up on Elena's tearful face hardening from devastation into cold defiance.\nACTION: Elena clenches her fists, knuckles whitening with suppressed fury.\nSOUND FX: Solemn string drone swells to an ominous cliffhanger peak.\nCAMERA: Cut to black."
+    },
+    {
+      "promo_id": "P9",
+      "episodes_spanned": [
+        18
+      ],
+      "segments": [
+        {
+          "episode": 18,
+          "start_line": 1,
+          "end_line": 81,
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "03:12.00",
+          "word_count": 1115
+        }
+      ],
+      "hook": "Juliana wakes up to thick smoke and screams Alexander's name as fire surrounds her bedroom.",
+      "cliffhanger": "Alexander vows vengeance as they stare into the inferno after their home is destroyed, and the viewer is left waiting to see how they will survive and strike back.",
+      "rationale": "High-octane survival sequence that opens with immediate peril and ends on a powerful vow of vengeance, perfect for driving high retention.",
+      "word_count": 1115,
+      "est_duration_sec": 192.0,
+      "scores": {
+        "hook_velocity": 9.0,
+        "context_independence": 8.0,
+        "cliffhanger_friction": 8.0
+      },
+      "total_score": 8.4,
+      "tier": "Hold: fix QC errors",
+      "qc_flags": [
+        {
+          "code": "word_budget",
+          "severity": "error",
+          "message": "1115 words > 600 max.",
+          "suggestion": "Trim filler lines or drop a stitched segment."
+        },
+        {
+          "code": "pacing_too_long",
+          "severity": "error",
+          "message": "Estimated 192s (pauses/crying included) > 60s.",
+          "suggestion": "Cut lines; verify real runtime on footage."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          18,
+          1
+        ],
+        [
+          18,
+          2
+        ],
+        [
+          18,
+          3
+        ],
+        [
+          18,
+          4
+        ],
+        [
+          18,
+          5
+        ],
+        [
+          18,
+          6
+        ],
+        [
+          18,
+          7
+        ],
+        [
+          18,
+          8
+        ],
+        [
+          18,
+          9
+        ],
+        [
+          18,
+          10
+        ],
+        [
+          18,
+          11
+        ],
+        [
+          18,
+          12
+        ],
+        [
+          18,
+          13
+        ],
+        [
+          18,
+          14
+        ],
+        [
+          18,
+          15
+        ],
+        [
+          18,
+          16
+        ],
+        [
+          18,
+          17
+        ],
+        [
+          18,
+          18
+        ],
+        [
+          18,
+          19
+        ],
+        [
+          18,
+          20
+        ],
+        [
+          18,
+          21
+        ],
+        [
+          18,
+          22
+        ],
+        [
+          18,
+          23
+        ],
+        [
+          18,
+          24
+        ],
+        [
+          18,
+          25
+        ],
+        [
+          18,
+          26
+        ],
+        [
+          18,
+          27
+        ],
+        [
+          18,
+          28
+        ],
+        [
+          18,
+          29
+        ],
+        [
+          18,
+          30
+        ],
+        [
+          18,
+          31
+        ],
+        [
+          18,
+          32
+        ],
+        [
+          18,
+          33
+        ],
+        [
+          18,
+          34
+        ],
+        [
+          18,
+          35
+        ],
+        [
+          18,
+          36
+        ],
+        [
+          18,
+          37
+        ],
+        [
+          18,
+          38
+        ],
+        [
+          18,
+          39
+        ],
+        [
+          18,
+          40
+        ],
+        [
+          18,
+          41
+        ],
+        [
+          18,
+          42
+        ],
+        [
+          18,
+          43
+        ],
+        [
+          18,
+          44
+        ],
+        [
+          18,
+          45
+        ],
+        [
+          18,
+          46
+        ],
+        [
+          18,
+          47
+        ],
+        [
+          18,
+          48
+        ],
+        [
+          18,
+          49
+        ],
+        [
+          18,
+          50
+        ],
+        [
+          18,
+          51
+        ],
+        [
+          18,
+          52
+        ],
+        [
+          18,
+          53
+        ],
+        [
+          18,
+          54
+        ],
+        [
+          18,
+          55
+        ],
+        [
+          18,
+          56
+        ],
+        [
+          18,
+          57
+        ],
+        [
+          18,
+          58
+        ],
+        [
+          18,
+          59
+        ],
+        [
+          18,
+          60
+        ],
+        [
+          18,
+          61
+        ],
+        [
+          18,
+          62
+        ],
+        [
+          18,
+          63
+        ],
+        [
+          18,
+          64
+        ],
+        [
+          18,
+          65
+        ],
+        [
+          18,
+          66
+        ],
+        [
+          18,
+          67
+        ],
+        [
+          18,
+          68
+        ],
+        [
+          18,
+          69
+        ],
+        [
+          18,
+          70
+        ],
+        [
+          18,
+          71
+        ],
+        [
+          18,
+          72
+        ],
+        [
+          18,
+          73
+        ],
+        [
+          18,
+          74
+        ],
+        [
+          18,
+          75
+        ],
+        [
+          18,
+          76
+        ],
+        [
+          18,
+          77
+        ],
+        [
+          18,
+          78
+        ],
+        [
+          18,
+          79
+        ],
+        [
+          18,
+          80
+        ],
+        [
+          18,
+          81
+        ]
+      ],
+      "text": "CAMERA: Low-angle shot on the wooden floor as bright orange flames crackle beneath the closed bedroom door, thick smoke billowing through the crevices.\nSOUND FX: Muffled crackle and roar of an encroaching blaze.\nCAMERA: Close-up overhead shot of Juliana asleep on her pillow as her eyelids flutter open, gasping and coughing violently from the choking smoke.\nACTION: Juliana coughs, her eyes widening in immediate alarm as the smell of burning wood fills her lungs.\nACTION: Juliana bolts upright in bed, tossing off the woolen quilt as she sees the orange glow under the door.\nJULIANA (Screaming, Terrified): \"Alexander!\"\nCAMERA: Medium shot as Juliana swings her bare legs out of bed onto the floor, trembling with panic.\nJULIANA (Desperate, Shouting): \"Alexander!\"\nCAMERA: Low-angle close shot of the bedroom door glowing intensely, fire licking the wooden floorboards as smoke pours inward.\nACTION: Juliana sits huddled at the edge of the bed, pressing her bandaged hands against her mouth, coughing and sobbing in fear.\nJULIANA (Muffled, Weeping): \"Alexander...\"\nSOUND FX: A violent crash as the bedroom door is kicked open.\nCAMERA: Framed in the doorway engulfed by blazing orange light, Alexander bursts in, his dark hair flying, looking like an imposing guardian amid the smoke.\nALEXANDER (Authoritative, Urgency): \"Juliana! Get up!\"\nCAMERA: Wide tracking shot as Alexander rushes across the burning, smoke-choked room toward her bed.\nACTION: Alexander reaches the bed, hoisting Juliana up by her arms into a standing embrace.\nJULIANA (Breathless, Distressed): \"What happened?\"\nALEXANDER (Grim, Urgent): \"Fire.\"\nCAMERA: Over-the-shoulder shot past Alexander toward the blazing threshold of the main room, beams collapsing across the doorway.\nCAMERA: Medium close-up of Alexander wrapping a heavy coat tightly around Juliana's shoulders.\nACTION: Alexander clutches Juliana against his chest with one strong arm, shielding her face from the sparks.\nALEXANDER (Firm, Protective): \"Stay close to me.\"\nCAMERA: Reverse shot from behind them facing the burning door frame as wall-high flames roar, completely sealing their exit.\nACTION: Juliana recoils from the heat, clutching Alexander's coat tightly.\nJULIANA (Panic-Stricken, Choked): \"We cannot get through!\"\nALEXANDER (Resolute, Calm Under Pressure): \"Then we go another way.\"\nCAMERA: Tracking shot as Alexander turns, grabbing Juliana's hand, and pulls her quickly through the burning corridors.\nSOUND FX: Loud wooden groaning and thunderous crash of burning rafters falling behind them.\nCAMERA: Medium tracking shot focusing on Juliana's wide, soot-streaked eyes as they navigate through falling embers.\nCAMERA: Close-up of the antique, leather-bound herbal ledger resting on a burning wooden table, the edges of its pages beginning to curl and singe in the heat.\nACTION: Juliana spots the book and halts abruptly, pointing back toward the burning desk.\nJULIANA (Frantic, Desperate): \"The ledger!\"\nACTION: Alexander firmly grips her arm, pulling her back toward safety.\nALEXANDER (Stern, Shouting): \"Leave it!\"\nJULIANA (Hysterical, Screaming): \"No! No!\"\nCAMERA: Low-angle shot pointing up at the ceiling beams overhead, engulfed in roaring fire and splitting down the center.\nACTION: Alexander points upward with urgency, pulling her under his arm.\nALEXANDER (Loud, Alarmed): \"Juliana, the ceiling is coming down!\"\nACTION: Juliana wrests her hand from his grasp and charges straight toward the burning desk.\nCAMERA: Wide shot of the room as a massive burning crossbeam collapses into the floorboards with a fiery explosion.\nALEXANDER (Roaring in Terror): \"Juliana!\"\nJULIANA (Defiant, Weeping): \"It's my mother's!\"\nACTION: Juliana snatches the scorched leather ledger from the burning table, pulling it tightly against her chest with both bandaged hands.\nCAMERA: Close-up of the ceiling rafter splitting violently apart above her.\nCAMERA: Close-up of Juliana looking up in sheer terror, firelight dancing across her tearful face.\nJULIANA (Screaming, Blood-Curdling): \"Alexander!\"\nACTION: Alexander lunges across the room, tackling her to the wooden floor and covering her body entirely with his own.\nALEXANDER (Screaming Command): \"Down!\"\nSOUND FX: Massive wooden beam crashes directly where Juliana had been standing, showering them in sparks.\nCAMERA: Ground-level shot of Alexander lying on top of Juliana, his chest shielding her, his face smeared with soot.\nACTION: Alexander lifts his head slightly, checking her face and cradling her cheek tenderly.\nALEXANDER (Panting, Reassuring): \"I've got you.\"\nCAMERA: Wide shot of the walls collapsing in curtains of flame, cutting off all interior hallways.\nACTION: Alexander scoops Juliana up in his arms, carrying her bridal-style as she clutches the ledger.\nACTION: Juliana looks toward the side wall and points frantically at the parlor window.\nJULIANA (Urgent, Shouting): \"The window!\"\nALEXANDER (Steely, Determined): \"Hold on to me.\"\nCAMERA: Medium close-up of Alexander gritting his teeth, holding Juliana securely as she buries her face into his neck.\nCAMERA: Slow-motion shot as Alexander sprints through the burning room toward the framed glass window.\nACTION: Alexander leaps forward, using his shoulder and back to shatter through the burning window frame, carrying Juliana safely in his arms out into the night.\nSOUND FX: Loud explosion of shattering window glass and splintering wood.\nCAMERA: Wide interior shot as the entire parlor collapses into an uncontrollable inferno of roaring flames.\nCAMERA: Night exterior shot in the dark grass outside. Juliana sits over Alexander, brushing ashes from his face as he coughs and catches his breath.\nCAMERA: Wide shot of villagers running toward the cottage carrying wooden water buckets through the smoke-filled darkness.\nCAMERA: Close-up of Juliana kneeling in the mud, her face blackened with soot and tears streaming down her cheeks as she clutches the charred ledger.\nCAMERA: Wide shot of the cottage completely consumed by towering flames against the dark night sky.\nJULIANA (Sobbing, Heartbroken): \"Our home...\"\nJULIANA (Crying, Shattered): \"Everything we had is gone.\"\nACTION: Alexander kneels beside her in the grass, resting a steady, protective hand on her back.\nACTION: Juliana turns toward Alexander, her hand trembling as she reaches out and touches his chest.\nJULIANA (Voice Breaking, Anguished): \"Why would anyone do this?\"\nJULIANA (Whispering, Tearful): \"Alexander...\"\nACTION: Alexander draws her firmly into his arms, wrapping both burly arms around her as she buries her face into his shoulder, weeping uncontrollably.\nALEXANDER (Cold, Ominous): \"Someone wanted us out.\"\nJULIANA (Despairing, Weeping): \"We have nowhere to go.\"\nCAMERA: Slow push-in on Alexander's face over Juliana's shoulder. His expression hardens into a mask of pure, lethal fury.\nCAMERA: Extreme close-up of Alexander's piercing eyes and combat scar bathed in the flickering orange glow of the fire.\nALEXANDER (Cold Fury, Resolute): \"They took our home. I will not let them take anything else now.\"\nACTION: Juliana slowly pulls back slightly from his embrace, her tear-filled blue eyes looking up into his hardened features.\nJULIANA (Trembling, Apprehensive): \"What are you going to do?\"\nCAMERA: Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable resolve, the swelling score echoing a vow of vengeance into the final cut to black."
+    },
+    {
+      "promo_id": "P12",
+      "episodes_spanned": [
+        24,
+        25,
+        26
+      ],
+      "segments": [
+        {
+          "episode": 24,
+          "start_line": 24,
+          "end_line": 24,
+          "start_timestamp": "00:32.50",
+          "end_timestamp": "00:34.50",
+          "word_count": 16
+        },
+        {
+          "episode": 25,
+          "start_line": 49,
+          "end_line": 51,
+          "start_timestamp": "01:20.20",
+          "end_timestamp": "01:25.00",
+          "word_count": 17
+        },
+        {
+          "episode": 26,
+          "start_line": 15,
+          "end_line": 15,
+          "start_timestamp": "00:30.80",
+          "end_timestamp": "00:35.50",
+          "word_count": 19
+        }
+      ],
+      "hook": "The noblewoman strikes Juliana violently with a riding crop for showing compassion to the sick Duchess.",
+      "cliffhanger": "The Duchess recognizes Juliana as the maid who took the whip, leaving viewers wondering if her true identity will be exposed.",
+      "rationale": "High-impact opening with physical violence and a dangerous undercover medical mission leading straight into a tense identity-reveal cliffhanger.",
+      "word_count": 52,
+      "est_duration_sec": 11.5,
+      "scores": {
+        "hook_velocity": 9.0,
+        "context_independence": 7.0,
+        "cliffhanger_friction": 9.0
+      },
+      "total_score": 8.4,
+      "tier": "Tier 2: Post After Review",
+      "qc_flags": [
+        {
+          "code": "word_budget",
+          "severity": "warn",
+          "message": "52 words < 100 min.",
+          "suggestion": "Extend the segment or merge with the payoff scene."
+        },
+        {
+          "code": "pacing_too_short",
+          "severity": "warn",
+          "message": "Estimated 12s < 20s.",
+          "suggestion": ""
+        },
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Who is Catherine?; Why did the maid take the whip previously?",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          24,
+          24
+        ],
+        [
+          25,
+          49
+        ],
+        [
+          25,
+          50
+        ],
+        [
+          25,
+          51
+        ],
+        [
+          26,
+          15
+        ]
+      ],
+      "text": "ACTION: The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso.\n[CUT]\nJULIANA (Hushed, Horrified): \"Poison.\"\nCAMERA: Slightly wider close-up as Juliana's eyes well with distress.\nJULIANA (Sober): \"Arsenic.\"\n[CUT]\nDOWAGER DUCHESS (Faint, Discerning): \"You... you are no common servant. You took Catherine's whip for me the other day.\""
+    },
+    {
+      "promo_id": "P22",
+      "episodes_spanned": [
+        41
+      ],
+      "segments": [
+        {
+          "episode": 41,
+          "start_line": 13,
+          "end_line": 29,
+          "start_timestamp": "00:17.50",
+          "end_timestamp": "00:52.80",
+          "word_count": 264
+        }
+      ],
+      "hook": "Juliana is dragged into the cathedral in heavy iron shackles and prison rags for her rival's wedding.",
+      "cliffhanger": "Catherine stands tall at the altar, looking down upon the chained Juliana like an empress, leaving the ultimate fate of the disgraced lady completely unresolved.",
+      "rationale": "High-stakes emotional confrontation that immediately hooks viewers with public humiliation and sets up a fierce revenge narrative.",
+      "word_count": 264,
+      "est_duration_sec": 35.3,
+      "scores": {
+        "hook_velocity": 9.0,
+        "context_independence": 8.0,
+        "cliffhanger_friction": 8.0
+      },
+      "total_score": 8.4,
+      "tier": "Tier 2: Post After Review",
+      "qc_flags": [
+        {
+          "code": "verify_cliffhanger_in_footage",
+          "severity": "warn",
+          "message": "Cliffhanger rests on an action/cut line. The final edit may defuse the tension.",
+          "suggestion": "Watch the footage; confirm the beat lands, or adjust the end timestamp."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          41,
+          13
+        ],
+        [
+          41,
+          14
+        ],
+        [
+          41,
+          15
+        ],
+        [
+          41,
+          16
+        ],
+        [
+          41,
+          17
+        ],
+        [
+          41,
+          18
+        ],
+        [
+          41,
+          19
+        ],
+        [
+          41,
+          20
+        ],
+        [
+          41,
+          21
+        ],
+        [
+          41,
+          22
+        ],
+        [
+          41,
+          23
+        ],
+        [
+          41,
+          24
+        ],
+        [
+          41,
+          25
+        ],
+        [
+          41,
+          26
+        ],
+        [
+          41,
+          27
+        ],
+        [
+          41,
+          28
+        ],
+        [
+          41,
+          29
+        ]
+      ],
+      "text": "ACTION: Juliana, dressed in a coarse drab prison dress with a numbered identification badge, is marched forward by two armed constables holding her by the arms.\nCAMERA: Extreme close-up of Juliana's scarred, dirtied wrists bound tight in heavy iron shackles.\nCAMERA: Intense close-up of Juliana's bruised, dirt-streaked face. Her piercing blue eyes burn with fierce dignity despite her captive state.\nCAMERA: Medium shot of Catherine standing beside the altar, watching Juliana's entrance with gloating satisfaction.\nCATHERINE (Smug, Taunting): \"There she is.\"\nCAMERA: Medium tracking shot of Juliana marching between the stern constables down the central aisle toward the altar.\nCAMERA: Medium shot of a seated aristocratic couple in the pews, whispering and sneering behind an ivory lace fan.\nNOBLEWOMAN (Gleeful, Whispering): \"Look at her.\"\nNOBLEMAN (Mocking, Chuckling): \"She actually came back to the chapel.\"\nCAMERA: Close-up of the noblewoman giggling with hand over mouth, glancing spitefully at the disgraced bride.\nNOBLEWOMAN (Scornful, Smug): \"Not as a bride this time.\"\nCAMERA: Medium shot of two senior aristocrats in the carved choir stalls, resting on their canes and nodding in smug agreement.\nCAMERA: Close profile of Juliana as she halts in the center aisle, lifting her chin proudly to face the sneering onlookers.\nCATHERINE (O.S., Derisive, Projecting): \"Lady Juliana Ashcroft. Look around.\"\nCAMERA: High-angle wide shot showing Juliana flanked by guards in the center of the lavishly decorated nave, dwarfed by the grand cathedral.\nCATHERINE (V.O., Mocking, Resonant): \"This is the world you thought you belonged to.\"\nCAMERA: Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana like an empress."
+    },
+    {
+      "promo_id": "P2",
+      "episodes_spanned": [
+        2
+      ],
+      "segments": [
+        {
+          "episode": 2,
+          "start_line": 2,
+          "end_line": 12,
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:15.50",
+          "word_count": 132
+        },
+        {
+          "episode": 2,
+          "start_line": 28,
+          "end_line": 38,
+          "start_timestamp": "00:37.50",
+          "end_timestamp": "00:56.70",
+          "word_count": 136
+        }
+      ],
+      "hook": "Gerald coldly rejects Juliana at the altar",
+      "cliffhanger": "Clarissa taunts Juliana, leaving her utter humiliation unresolved.",
+      "rationale": "High-impact double-whammy of the groom's rejection and the father's cruelty tailored for rapid engagement.",
+      "word_count": 268,
+      "est_duration_sec": 34.7,
+      "scores": {
+        "hook_velocity": 8.0,
+        "context_independence": 9.0,
+        "cliffhanger_friction": 8.0
+      },
+      "total_score": 8.3,
+      "tier": "Tier 2: Post After Review",
+      "qc_flags": [
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Unexplained relationship between Juliana and the Lady in Gold Gown ('sister') introduced late without prior setup",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          2,
+          11
+        ],
+        [
+          2,
+          12
+        ],
+        [
+          2,
+          28
+        ],
+        [
+          2,
+          29
+        ],
+        [
+          2,
+          30
+        ],
+        [
+          2,
+          31
+        ],
+        [
+          2,
+          32
+        ],
+        [
+          2,
+          33
+        ],
+        [
+          2,
+          34
+        ],
+        [
+          2,
+          35
+        ],
+        [
+          2,
+          36
+        ],
+        [
+          2,
+          37
+        ],
+        [
+          2,
+          38
+        ]
+      ],
+      "text": "THE FORMER GROOM (Cold, Callous): \"I cannot marry you, Juliana.\"\nCAMERA: Medium close-up on Juliana trembling in disbelief, her hands clasped tightly to her chest.\nACTION: Juliana gasps softly in heartbreak, her eyes wide and brimming with tears.\nCAMERA: Medium shot returning to Gerald, sneering down at Juliana.\nTHE FORMER GROOM (Cruel, Derisive): \"You are far too plain...\"\nCAMERA: Close-up on Juliana's tear-streaked face, crushed under his biting words.\nTHE FORMER GROOM (Off-screen, Dismissive): \"...far too silent...\"\nCAMERA: Medium shot on Gerald turning slightly toward Clarissa as she smiles admiringly at him.\nTHE FORMER GROOM (Arrogant, Conceited): \"...and completely beneath the future I deserve.\"\nCAMERA: Wide shot down the aisle as Juliana takes an agonizing step forward toward the altar, extending a trembling hand.\nLADY JULIANA (Desperate, Pleading): \"Gerald... Look at me.\"\n[CUT]\nBLOND NOBLEMAN (Stern, Cold): \"Gerald has made his choice. Accept it, Juliana.\"\nCAMERA: Close-up on the father's hardening eyes, entirely unsympathetic.\nBLOND NOBLEMAN (Severely, Harsh): \"Do not disgrace us further.\"\nCAMERA: Extreme close-up on Juliana's tear-drenched eyes as the sting of her father's rejection lands.\nLADY JULIANA (Whispering, Crushed): \"You won't even look at me.\"\nCAMERA: Medium shot on Clarissa, beaming smugly as she clings to Gerald's arm.\nLADY IN GOLD GOWN (Mocking, Spiteful): \"Why are you surprised, sister? Look at you.\"\nCAMERA: Tight insert on Clarissa's gloved fingers contemptuously pinching the satin folds of Juliana's gown.\nLADY IN GOLD GOWN (Off-screen, Scornful): \"That plain, old-fashioned gown.\"\nCAMERA: Medium shot of Clarissa smiling radiantly, condescendingly gesturing at Juliana.\nLADY IN GOLD GOWN (Taunting, Giggling): \"You look like a kitchen maid who wandered into the wrong wedding.\""
+    },
+    {
+      "promo_id": "P23",
+      "episodes_spanned": [
+        41,
+        42
+      ],
+      "segments": [
+        {
+          "episode": 41,
+          "start_line": 47,
+          "end_line": 53,
+          "start_timestamp": "01:21.00",
+          "end_timestamp": "01:36.09",
+          "word_count": 176
+        },
+        {
+          "episode": 42,
+          "start_line": 1,
+          "end_line": 4,
+          "start_timestamp": "00:00.00",
+          "end_timestamp": "00:14.60",
+          "word_count": 75
+        }
+      ],
+      "hook": "Cathedral entrance explodes in a violent fireball",
+      "cliffhanger": "Lord Sterling's escape is blocked by a British Police Constable just before fade to black",
+      "rationale": "High-impact cathedral explosion hook leads directly into the dramatic return of the presumed-dead Duke and ends on an airtight suspense cliffhanger as the conspirator gets trapped.",
+      "word_count": 251,
+      "est_duration_sec": 29.7,
+      "scores": {
+        "hook_velocity": 9.0,
+        "context_independence": 7.0,
+        "cliffhanger_friction": 8.0
+      },
+      "total_score": 8.1,
+      "tier": "Tier 2: Post After Review",
+      "qc_flags": [
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: The exact relationship between Juliana, Catherine, Rupert, Lord Sterling, and Alexander is not explicitly defined for a first-time viewer.",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          41,
+          47
+        ],
+        [
+          41,
+          48
+        ],
+        [
+          41,
+          49
+        ],
+        [
+          41,
+          50
+        ],
+        [
+          41,
+          51
+        ],
+        [
+          41,
+          52
+        ],
+        [
+          41,
+          53
+        ],
+        [
+          42,
+          1
+        ],
+        [
+          42,
+          2
+        ],
+        [
+          42,
+          3
+        ],
+        [
+          42,
+          4
+        ]
+      ],
+      "text": "SOUND FX: Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation.\nACTION: A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke.\nCAMERA: Rapid series of panic shots: aristocratic guests ducking behind pews, covering their heads in terror, women shrieking as plaster rains down.\nCAMERA: Medium shot of Catherine and Rupert at the altar. Catherine gasps in horror, clutching her veil as debris rains over her bridal gown while Rupert spins around in shock.\nCAMERA: Medium wide shot of Juliana standing motionless in the middle of the aisle while thick smoke and dust billow from the demolished archway behind her.\nACTION: Silhouetted armed figures emerge through the smoke and rubble of the breached doorway. Juliana slowly turns her head, glancing back toward the light.\nCAMERA: Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, breathless realization, and blooming hope as the orchestral score swells into an abrupt cliffhanger.\n[CUT]\nCAMERA: Low-angle shot through drifting smoke and rubble across the stone floor, tilting up as polished boots step over splintered wood, revealing an imposing nobleman in a gold-embroidered navy coat.\nACTION: Alexander strides deliberately through the pulverized cathedral doorway. Dressed in the regal ducal coat with gold braided cuffs and a lion crest, his scarred face is set with cold, unyielding authority.\nBLOND NOBLEMAN (Shocked, Trembling): \"Who are you?\"\nALEXANDER (Low, Resonant): \"You already know.\""
+    },
+    {
+      "promo_id": "P18",
+      "episodes_spanned": [
+        33
+      ],
+      "segments": [
+        {
+          "episode": 33,
+          "start_line": 41,
+          "end_line": 43,
+          "start_timestamp": "01:08.50",
+          "end_timestamp": "01:13.00",
+          "word_count": 36
+        },
+        {
+          "episode": 33,
+          "start_line": 93,
+          "end_line": 94,
+          "start_timestamp": "02:36.20",
+          "end_timestamp": "02:39.50",
+          "word_count": 32
+        }
+      ],
+      "hook": "The terrified maid gasps as the ruthless Lord threatens to throw her seven-year-old brother into the gaol.",
+      "cliffhanger": "The maid collapses prostrate on the floor in total despair as she is forced to betray Lady Juliana.",
+      "rationale": "Emotional blackmail and coercion create an immediate sympathetic crisis.",
+      "word_count": 68,
+      "est_duration_sec": 7.8,
+      "scores": {
+        "hook_velocity": 8.0,
+        "context_independence": 8.0,
+        "cliffhanger_friction": 8.0
+      },
+      "total_score": 8.0,
+      "tier": "Tier 2: Post After Review",
+      "qc_flags": [
+        {
+          "code": "word_budget",
+          "severity": "warn",
+          "message": "68 words < 100 min.",
+          "suggestion": "Extend the segment or merge with the payoff scene."
+        },
+        {
+          "code": "pacing_too_short",
+          "severity": "warn",
+          "message": "Estimated 8s < 20s.",
+          "suggestion": ""
+        },
+        {
+          "code": "verify_cliffhanger_in_footage",
+          "severity": "warn",
+          "message": "Cliffhanger rests on an action/cut line. The final edit may defuse the tension.",
+          "suggestion": "Watch the footage; confirm the beat lands, or adjust the end timestamp."
+        },
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Lady Juliana's relationship to the Lord and maid is unexplained; the reason for betraying Lady Juliana is missing",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          33,
+          41
+        ],
+        [
+          33,
+          42
+        ],
+        [
+          33,
+          43
+        ],
+        [
+          33,
+          93
+        ],
+        [
+          33,
+          94
+        ]
+      ],
+      "text": "ACTION: The maid gasps in sheer terror, her chest heaving as tears stream.\nCAMERA: Close-up of the maid clutching her chest with trembling hands, crying desperately.\nMAID (Begging, Heartbroken): \"Please, my Lord... he is only seven!\"\n[CUT]\nACTION: The maid's knees buckle completely. She collapses forward onto the polished dark wood floor, groveling in total despair.\nCAMERA: High angle looking down as the maid falls prostrate on the floor."
+    },
+    {
+      "promo_id": "P19",
+      "episodes_spanned": [
+        34
+      ],
+      "segments": [
+        {
+          "episode": 34,
+          "start_line": 18,
+          "end_line": 20,
+          "start_timestamp": "00:35.30",
+          "end_timestamp": "00:37.00",
+          "word_count": 31
+        },
+        {
+          "episode": 34,
+          "start_line": 67,
+          "end_line": 69,
+          "start_timestamp": "01:50.00",
+          "end_timestamp": "01:52.60",
+          "word_count": 31
+        }
+      ],
+      "hook": "The Judge furiously slams his wooden gavel down in the middle of a high-stakes witchcraft trial.",
+      "cliffhanger": "The Lord turns to the assembly declaring the healing preparations as poisoning, leaving Juliana's fate hanging.",
+      "rationale": "Courtroom drama with intense confrontations and sudden accusations drives high engagement.",
+      "word_count": 62,
+      "est_duration_sec": 4.3,
+      "scores": {
+        "hook_velocity": 8.0,
+        "context_independence": 7.0,
+        "cliffhanger_friction": 9.0
+      },
+      "total_score": 8.0,
+      "tier": "Tier 2: Post After Review",
+      "qc_flags": [
+        {
+          "code": "word_budget",
+          "severity": "warn",
+          "message": "62 words < 100 min.",
+          "suggestion": "Extend the segment or merge with the payoff scene."
+        },
+        {
+          "code": "pacing_too_short",
+          "severity": "warn",
+          "message": "Estimated 4s < 20s.",
+          "suggestion": ""
+        },
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Juliana; healing preparations",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          34,
+          18
+        ],
+        [
+          34,
+          19
+        ],
+        [
+          34,
+          20
+        ],
+        [
+          34,
+          67
+        ],
+        [
+          34,
+          68
+        ],
+        [
+          34,
+          69
+        ]
+      ],
+      "text": "ACTION: The Judge furiously raises his wooden gavel and strikes the sound block with sharp force.\nJUDGE (Furious, Shouting): \"Silence!\"\nSOUND FX: [Sharp, echoing crack of the gavel slamming onto wood]\n[CUT]\nACTION: The Lord turns dramatically to face the entire assembly, gesturing toward the spectators.\nCAMERA: Medium shot of the Lord addressing the courtroom.\nLORD (Resonant, Vindicative): \"The people call it poisoning!\""
+    },
+    {
+      "promo_id": "P15",
+      "episodes_spanned": [
+        29,
+        30
+      ],
+      "segments": [
+        {
+          "episode": 29,
+          "start_line": 53,
+          "end_line": 55,
+          "start_timestamp": "01:24.00",
+          "end_timestamp": "01:28.00",
+          "word_count": 46
+        },
+        {
+          "episode": 29,
+          "start_line": 61,
+          "end_line": 65,
+          "start_timestamp": "01:36.10",
+          "end_timestamp": "01:45.90",
+          "word_count": 74
+        },
+        {
+          "episode": 30,
+          "start_line": 18,
+          "end_line": 19,
+          "start_timestamp": "00:33.40",
+          "end_timestamp": "00:39.80",
+          "word_count": 45
+        }
+      ],
+      "hook": "Guards violently shove Juliana into the dark stone cell.",
+      "cliffhanger": "The Elder Nobleman demands that Juliana be treated as a weed and burned, leaving her trapped in the dungeon as her execution is plotted.",
+      "rationale": "High-stakes drama combining physical brutality, desperate screaming, and a chilling aristocratic conspiracy that hooks viewers instantly.",
+      "word_count": 165,
+      "est_duration_sec": 20.2,
+      "scores": {
+        "hook_velocity": 8.0,
+        "context_independence": 7.0,
+        "cliffhanger_friction": 8.0
+      },
+      "total_score": 7.7,
+      "tier": "Tier 2: Post After Review",
+      "qc_flags": [
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Unexplained relationship between Juliana and Rupert; Unclear who 'she' is that Juliana claims to have saved",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          29,
+          53
+        ],
+        [
+          29,
+          54
+        ],
+        [
+          29,
+          55
+        ],
+        [
+          29,
+          61
+        ],
+        [
+          29,
+          62
+        ],
+        [
+          29,
+          63
+        ],
+        [
+          29,
+          64
+        ],
+        [
+          29,
+          65
+        ],
+        [
+          30,
+          18
+        ],
+        [
+          30,
+          19
+        ]
+      ],
+      "text": "ACTION: The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone floor.\nJULIANA (Crying Out, Broken): \"Please!\"\nSOUND FX: The heavy iron door slams shut with a deafening metallic thud, and the massive exterior bolt grates locked.\n[CUT]\nCAMERA: Medium shot as Juliana pushes herself off the wet stone floor and dashes toward the barred wicket of the heavy door.\nJULIANA (Desperate, Shouting): \"I have done nothing!\"\nCAMERA: Tight profile close-up of Juliana gripping the rusted iron bars, screaming out into the empty stone corridor.\nJULIANA (Screaming, Hysterical): \"I saved her! I healed her!\"\nCAMERA: Medium shot from inside the cell as Juliana pounds her fists rhythmically against the reinforced iron door.\n[CUT]\nACTION: The Elder Nobleman thrusts the gold knob of his walking stick directly against Rupert's chest, pinning him against the wall.\nELDER NOBLEMAN (Fierce, Venomous): \"Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!\""
+    },
+    {
+      "promo_id": "P8",
+      "episodes_spanned": [
+        15,
+        16
+      ],
+      "segments": [
+        {
+          "episode": 15,
+          "start_line": 34,
+          "end_line": 35,
+          "start_timestamp": "00:47.40",
+          "end_timestamp": "00:49.00",
+          "word_count": 32
+        },
+        {
+          "episode": 16,
+          "start_line": 14,
+          "end_line": 18,
+          "start_timestamp": "00:14.40",
+          "end_timestamp": "00:21.20",
+          "word_count": 87
+        },
+        {
+          "episode": 16,
+          "start_line": 44,
+          "end_line": 54,
+          "start_timestamp": "00:49.80",
+          "end_timestamp": "01:10.50",
+          "word_count": 160
+        }
+      ],
+      "hook": "The Thug with Cap violently shoves Juliana to the stone path.",
+      "cliffhanger": "Juliana asks who sent them, and the thug confesses Gerald Harrington paid them, leaving the betrayal hanging in suspense.",
+      "rationale": "High-impact opening with physical conflict, explosive action when Alexander easily catches a heavy club bare-handed, and a shocking betrayal confession leading to an unresolved personal cliffhanger.",
+      "word_count": 279,
+      "est_duration_sec": 29.1,
+      "scores": {
+        "hook_velocity": 9.0,
+        "context_independence": 7.0,
+        "cliffhanger_friction": 6.0
+      },
+      "total_score": 7.5,
+      "tier": "Tier 2: Post After Review",
+      "qc_flags": [
+        {
+          "code": "verify_cliffhanger_in_footage",
+          "severity": "warn",
+          "message": "Cliffhanger rests on an action/cut line. The final edit may defuse the tension.",
+          "suggestion": "Watch the footage; confirm the beat lands, or adjust the end timestamp."
+        },
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Gerald Harrington's relationship to Juliana is stated at the end, but his full significance requires prior context.",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          15,
+          34
+        ],
+        [
+          15,
+          35
+        ],
+        [
+          16,
+          14
+        ],
+        [
+          16,
+          15
+        ],
+        [
+          16,
+          16
+        ],
+        [
+          16,
+          17
+        ],
+        [
+          16,
+          18
+        ],
+        [
+          16,
+          44
+        ],
+        [
+          16,
+          45
+        ],
+        [
+          16,
+          46
+        ],
+        [
+          16,
+          47
+        ],
+        [
+          16,
+          48
+        ],
+        [
+          16,
+          49
+        ],
+        [
+          16,
+          50
+        ],
+        [
+          16,
+          51
+        ],
+        [
+          16,
+          52
+        ],
+        [
+          16,
+          53
+        ],
+        [
+          16,
+          54
+        ]
+      ],
+      "text": "ACTION: The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path.\nJULIANA (Gasping Cry): \"Ah!\"\n[CUT]\nACTION: The thug swings the club down with full force, but Alexander catches the weapon mid-air in his bare hand with chilling ease.\nSOUND FX: Heavy blunt impact of a solid hand gripping wood.\nCAMERA: Close-up of the Thug with Cap staring in wide-eyed terror as Alexander grips the bar and wrenches it away effortlessly.\nACTION: Alexander strikes the thug across the chest and slams him violently into the muddy ground beside the stone wall.\nSOUND FX: Heavy thud of a body crashing into soil and wood.\n[CUT]\nTHUG WITH CAP (Screaming, Panicked): \"Harrington! Gerald Harrington paid us!\"\nCAMERA: Close-up of Juliana on the ground, reeling in devastated disbelief as the betrayal hits her.\nJULIANA (Shaken, Heartbroken): \"Gerald...\"\nCAMERA: Medium wide shot as Alexander releases the thug, sending him tumbling into the ruined flowerbeds.\nACTION: The Thug with Cap scrambles to his feet and sprints into the dark woods alongside his two limping accomplices.\nTHUG WITH CAP (Shouting, Retreating): \"We were only paid to destroy the garden, that's all!\"\nCAMERA: Close-up on Alexander's hand hanging by his coat. Fresh blood trickles from his split knuckles, and he slowly curls his fingers into a tight fist.\nACTION: Alexander flexes his bleeding hand, showing no sign of pain.\nCAMERA: Medium shot as Juliana gingerly rises to her feet, stepping toward Alexander with deep awe and wonder in her eyes.\nJULIANA (Soft, Astounded): \"You knew exactly what to do.\"\nCAMERA: Close-up of Juliana looking up at him, searching his scarred face."
+    },
+    {
+      "promo_id": "P11",
+      "episodes_spanned": [
+        23
+      ],
+      "segments": [
+        {
+          "episode": 23,
+          "start_line": 40,
+          "end_line": 40,
+          "start_timestamp": "01:19.00",
+          "end_timestamp": "01:21.50",
+          "word_count": 9
+        },
+        {
+          "episode": 23,
+          "start_line": 45,
+          "end_line": 45,
+          "start_timestamp": "01:26.00",
+          "end_timestamp": "01:28.00",
+          "word_count": 5
+        },
+        {
+          "episode": 23,
+          "start_line": 53,
+          "end_line": 57,
+          "start_timestamp": "01:40.50",
+          "end_timestamp": "01:52.00",
+          "word_count": 87
+        },
+        {
+          "episode": 23,
+          "start_line": 63,
+          "end_line": 67,
+          "start_timestamp": "01:58.80",
+          "end_timestamp": "02:11.50",
+          "word_count": 86
+        }
+      ],
+      "hook": "Lady Juliana drops a chilling truth: someone is poisoning the Dowager Duchess.",
+      "cliffhanger": "The door latch turns and opens while Juliana is caught mixing an illicit cure, leaving her trapped with no escape.",
+      "rationale": "High-stakes historical medical mystery with an immediate poisoning revelation, rapid escalation of tension, and a heart-pounding caught-in-the-act cliffhanger.",
+      "word_count": 187,
+      "est_duration_sec": 28.7,
+      "scores": {
+        "hook_velocity": 6.0,
+        "context_independence": 8.0,
+        "cliffhanger_friction": 8.0
+      },
+      "total_score": 7.2,
+      "tier": "Tier 2: Post After Review",
+      "qc_flags": [
+        {
+          "code": "pronoun_soup",
+          "severity": "warn",
+          "message": "Opens with pronouns (he/she/you/him) and names nobody; a new viewer won't know who is who.",
+          "suggestion": "Prepend an establishing line, add an on-screen caption, or start earlier."
+        },
+        {
+          "code": "verify_cliffhanger_in_footage",
+          "severity": "warn",
+          "message": "Cliffhanger rests on an action/cut line. The final edit may defuse the tension.",
+          "suggestion": "Watch the footage; confirm the beat lands, or adjust the end timestamp."
+        },
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Who is 'her' (the Dowager Duchess and the patient)?; What is the exact relationship between Lady Juliana and Prudence?",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          23,
+          40
+        ],
+        [
+          23,
+          45
+        ],
+        [
+          23,
+          53
+        ],
+        [
+          23,
+          54
+        ],
+        [
+          23,
+          55
+        ],
+        [
+          23,
+          56
+        ],
+        [
+          23,
+          57
+        ],
+        [
+          23,
+          63
+        ],
+        [
+          23,
+          64
+        ],
+        [
+          23,
+          65
+        ],
+        [
+          23,
+          66
+        ],
+        [
+          23,
+          67
+        ]
+      ],
+      "text": "LADY JULIANA (Cold, Deadly Serious): \"Someone is poisoning her.\"\n[CUT]\nLADY JULIANA (Venomous, Resolute): \"Arsenic.\"\n[CUT]\nCAMERA: Top-down close-up of Juliana's soot-smudged hands pouring powdered activated charcoal from a vial into a stone mortar, then tossing in a pinch of crushed dried leaves.\nCAMERA: Close-up of Juliana's hands vigorously grinding the pestle inside the stone mortar.\nSOUND FX: Heavy, rhythmic scraping of stone pestle grinding charcoal and dried herbs.\nCAMERA: Medium close-up of Juliana grinding intensely, her brow furrowed as she speaks with urgent authority.\nLADY JULIANA (Urgent, Focused): \"The charcoal may help remove what is still inside her. We must act quickly.\"\n[CUT]\nPRUDENCE (Terrified, Hoarse Whisper): \"Juliana... someone is coming.\"\nCAMERA: Quick cut to Juliana looking back toward the bed and then toward the door, trapped with an unfinished cure.\nCAMERA: Tight close-up of Juliana's charcoal-blackened hand clutching the glass medicine vial firmly.\nSOUND FX: Loud, metallic clack of the door latch turning, followed by the slow creak of wood hinges.\nCAMERA: Close-up on the brass door lever as it slowly rotates downward, and the heavy door cracks open inward into the room—cutting to an intense, heart-stopping cliffhanger."
+    },
+    {
+      "promo_id": "P14",
+      "episodes_spanned": [
+        27,
+        28
+      ],
+      "segments": [
+        {
+          "episode": 27,
+          "start_line": 26,
+          "end_line": 28,
+          "start_timestamp": "00:46.40",
+          "end_timestamp": "00:51.50",
+          "word_count": 44
+        },
+        {
+          "episode": 28,
+          "start_line": 15,
+          "end_line": 48,
+          "start_timestamp": "00:15.30",
+          "end_timestamp": "01:04.80",
+          "word_count": 403
+        }
+      ],
+      "hook": "Loud, violent pounding echoes on the doors, interrupting the Duchess's interrogation.",
+      "cliffhanger": "The Duchess collapses back onto the pillows coughing violently after trying to expose her poisoners.",
+      "rationale": "High-stakes confrontation where the protagonist and dying Duchess try to expose the villains before being violently cut off.",
+      "word_count": 447,
+      "est_duration_sec": 54.6,
+      "scores": {
+        "hook_velocity": 6.0,
+        "context_independence": 8.0,
+        "cliffhanger_friction": 8.0
+      },
+      "total_score": 7.2,
+      "tier": "Tier 2: Post After Review",
+      "qc_flags": [],
+      "needs_human_review": false,
+      "covered_lines": [
+        [
+          27,
+          26
+        ],
+        [
+          27,
+          27
+        ],
+        [
+          27,
+          28
+        ],
+        [
+          28,
+          15
+        ],
+        [
+          28,
+          16
+        ],
+        [
+          28,
+          17
+        ],
+        [
+          28,
+          18
+        ],
+        [
+          28,
+          19
+        ],
+        [
+          28,
+          20
+        ],
+        [
+          28,
+          21
+        ],
+        [
+          28,
+          22
+        ],
+        [
+          28,
+          23
+        ],
+        [
+          28,
+          24
+        ],
+        [
+          28,
+          25
+        ],
+        [
+          28,
+          26
+        ],
+        [
+          28,
+          27
+        ],
+        [
+          28,
+          28
+        ],
+        [
+          28,
+          29
+        ],
+        [
+          28,
+          30
+        ],
+        [
+          28,
+          31
+        ],
+        [
+          28,
+          32
+        ],
+        [
+          28,
+          33
+        ],
+        [
+          28,
+          34
+        ],
+        [
+          28,
+          35
+        ],
+        [
+          28,
+          36
+        ],
+        [
+          28,
+          37
+        ],
+        [
+          28,
+          38
+        ],
+        [
+          28,
+          39
+        ],
+        [
+          28,
+          40
+        ],
+        [
+          28,
+          41
+        ],
+        [
+          28,
+          42
+        ],
+        [
+          28,
+          43
+        ],
+        [
+          28,
+          44
+        ],
+        [
+          28,
+          45
+        ],
+        [
+          28,
+          46
+        ],
+        [
+          28,
+          47
+        ],
+        [
+          28,
+          48
+        ]
+      ],
+      "text": "SOUND FX: Loud, violent pounding echoes on the wooden double doors.\nCAMERA: Juliana gasps, snapping her head toward the entrance in alarm.\nACTION: The heavy mahogany double doors burst open, revealing the Blond Nobleman flanked by Lady Catherine and a royal guard in uniform.\n[CUT]\nJULIANA (Furious, Defiant): \"I did not poison her! Look at her eyes, the fever has broken!\"\nCAMERA: Medium full shot of Rupert standing beside the four-poster bed, calmly pulling on his black leather gloves.\nBLOND NOBLEMAN (Sardonic, Chilling): \"A clever story, girl.\"\nBLOND NOBLEMAN (Threatening): \"But the guards know how to extract the truth.\"\nCAMERA: Medium close-up of the Dowager Duchess stirring against her pillows, lifting her trembling head with visible effort.\nDOWAGER DUCHESS (Weak, Straining): \"Rupert...\"\nCAMERA: Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed.\nDOWAGER DUCHESS (O.S., Commanding): \"Stop this!\"\nCAMERA: Wide shot of the bedchamber framed through the bed curtains as the Duchess props herself up on one elbow and points an accusing finger.\nDOWAGER DUCHESS (Desperate, Firm): \"She is innocent.\"\nDOWAGER DUCHESS (Adamant): \"She saved me!\"\nCAMERA: Close-up of Juliana, tears of relief welling in her eyes.\nJULIANA (Breathless, Relieved): \"Your Grace...\"\nCAMERA: Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror.\nDOWAGER DUCHESS (Trembling, Shouting): \"I know what happened to me!\"\nCAMERA: Medium low-angle shot past the Duchess pointing directly at Rupert, who stands rigid and expressionless.\nDOWAGER DUCHESS (Fierce, Condemning): \"I was poisoned!\"\nDOWAGER DUCHESS (Accusing): \"And you... you knew!\"\nCAMERA: Medium shot of the Duchess lunging forward from the pillows, gasping for breath as she points toward Catherine.\nDOWAGER DUCHESS (Choking, Weakening): \"Catherine knew!\"\nDOWAGER DUCHESS (Gasping): \"They have been—\"\nACTION: The Duchess collapses back onto the pillows, coughing violently and clutching her chest.\nCAMERA: Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behind and drags her back.\nJULIANA (Panicked, Screaming): \"Let me help her!\"\nJULIANA (Desperate): \"She's still weak, you cannot leave her like this!\"\nCAMERA: Medium close-up of Rupert smoothing down his black leather gloves, a chilling smile forming on his lips.\nBLOND NOBLEMAN (Smooth, Feigning Concern): \"You see?\"\nBLOND NOBLEMAN (Sinister): \"The poison has clearly damaged her mind.\"\nCAMERA: Over-the-shoulder shot of Rupert leaning menacingly over the gasping Duchess in bed.\nDOWAGER DUCHESS (Hoarse, Straining): \"I am not delusional!\"\nBLOND NOBLEMAN (Condescending, Whispering): \"Of course you are not.\"\nBLOND NOBLEMAN (Dismissive): \"You are merely confused.\"\nCAMERA: Medium profile tracking shot of Catherine walking deliberately toward Juliana, speaking with airy cynicism.\nCATHERINE (Amused, Mocking): \"How convenient that the only person who can prove the poison exists...\""
+    },
+    {
+      "promo_id": "P6",
+      "episodes_spanned": [
+        9
+      ],
+      "segments": [
+        {
+          "episode": 9,
+          "start_line": 3,
+          "end_line": 42,
+          "start_timestamp": "00:02.00",
+          "end_timestamp": "00:54.00",
+          "word_count": 522
+        }
+      ],
+      "hook": "Heavy, frantic pounding echoes against the heavy wooden cottage door in the middle of a storm.",
+      "cliffhanger": "A desperate mother panics asking why the remedy isn't working as her sick boy lies motionless on the table.",
+      "rationale": "High-stakes medical emergency hook with intense pacing, creating immediate tension as Juliana tries to save a dying child.",
+      "word_count": 522,
+      "est_duration_sec": 52.0,
+      "scores": {
+        "hook_velocity": 4.0,
+        "context_independence": 9.0,
+        "cliffhanger_friction": 8.0
+      },
+      "total_score": 6.7,
+      "tier": "Tier 3: Low Priority",
+      "qc_flags": [],
+      "needs_human_review": false,
+      "covered_lines": [
+        [
+          9,
+          3
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ],
+        [
+          9,
+          6
+        ],
+        [
+          9,
+          7
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          9,
+          9
+        ],
+        [
+          9,
+          10
+        ],
+        [
+          9,
+          11
+        ],
+        [
+          9,
+          12
+        ],
+        [
+          9,
+          13
+        ],
+        [
+          9,
+          14
+        ],
+        [
+          9,
+          15
+        ],
+        [
+          9,
+          16
+        ],
+        [
+          9,
+          17
+        ],
+        [
+          9,
+          18
+        ],
+        [
+          9,
+          19
+        ],
+        [
+          9,
+          20
+        ],
+        [
+          9,
+          21
+        ],
+        [
+          9,
+          22
+        ],
+        [
+          9,
+          23
+        ],
+        [
+          9,
+          24
+        ],
+        [
+          9,
+          25
+        ],
+        [
+          9,
+          26
+        ],
+        [
+          9,
+          27
+        ],
+        [
+          9,
+          28
+        ],
+        [
+          9,
+          29
+        ],
+        [
+          9,
+          30
+        ],
+        [
+          9,
+          31
+        ],
+        [
+          9,
+          32
+        ],
+        [
+          9,
+          33
+        ],
+        [
+          9,
+          34
+        ],
+        [
+          9,
+          35
+        ],
+        [
+          9,
+          36
+        ],
+        [
+          9,
+          37
+        ],
+        [
+          9,
+          38
+        ],
+        [
+          9,
+          39
+        ],
+        [
+          9,
+          40
+        ],
+        [
+          9,
+          41
+        ],
+        [
+          9,
+          42
+        ]
+      ],
+      "text": "SOUND FX: Heavy, frantic pounding echoes against the heavy wooden cottage door.\nACTION: Juliana stops grinding and lifts her head sharply toward the entrance in alarm.\nCAMERA: Close-up of Alexander turning toward the doorway, his eyes sharp and vigilant.\nALEXANDER (Authoritative, Protective): \"Stay back. I'll open it.\"\nACTION: Alexander steps forward and unlatches the cottage door, opening it into the pouring rain.\nCAMERA: Medium shot framing the doorway as a soaked, distraught peasant mother steps across the threshold clutching a swaddled child.\nPEASANT MOTHER (Frantic, Weeping): \"Please! They told me there was a woman here who knows herbs. My boy is burning with fever!\"\nCAMERA: Medium shot of Juliana rushing to the front of the table, extending her arms urgently.\nJULIANA (Urgent, Compassionate): \"Bring him here. Quickly.\"\nACTION: The trembling mother gently lays the feverish boy down atop the wooden table as Juliana leans in close.\nCAMERA: Close-up of Juliana gently placing her fingers against the boy's burning forehead.\nCAMERA: Medium close-up of Juliana examining the boy's breathing, looking up toward the frantic mother.\nJULIANA (Reassuring, Focused): \"He seems very unwell, but he is resting steadily. How long has he been like this?\"\nCAMERA: Medium two-shot of Alexander watching anxiously over the child's shoulder as Juliana tends to him.\nCAMERA: Medium close-up of the peasant mother clutching her shawl, tears running down her cheeks.\nPEASANT MOTHER (Trembling, Anxious): \"Since yesterday morning. He has barely eaten since sunset.\"\nCAMERA: Close-up of Juliana resting two fingers against the boy's wrist, measuring his shallow pulse.\nACTION: Juliana lifts the weathered herbal book and rapidly browses the handwritten pages.\nCAMERA: Insert close-up of the open page illustrated with botanical drawings labeled 'Feverfew'.\nJULIANA (Muttering, Intent): \"Feverfew... Not alone.\"\nCAMERA: Profile close-up of Juliana studying the grimoire's remedies intently while the mother weeps in the soft background.\nJULIANA (Determined): \"Chamomile... and willow bark.\"\nCAMERA: Close-up of Alexander leaning over the table, gazing at her with intense concern.\nALEXANDER (Grave): \"You're certain?\"\nCAMERA: Close-up of Juliana looking up into his eyes with resolute conviction.\nJULIANA (Resolute): \"I have to be.\"\nACTION: Juliana quickly grabs bundles of dried herbs from the table and turns to Alexander.\nJULIANA (Urgent): \"Alexander, I need hot water.\"\nALEXANDER (Prompt): \"I'm on it.\"\nACTION: Alexander hurries to the hearth and lifts a boiling iron kettle from the hearth chain, while the mother buries her face in her hands.\nPEASANT MOTHER (Sobbing): \"Please save him.\"\nACTION: Alexander returns and pours steaming hot water into the stone mortar as Juliana prepares the remedy.\nCAMERA: Medium close-up of Juliana clasping the mother's trembling hand across the wooden table.\nJULIANA (Gentle, Steadfast): \"He is not beyond saving.\"\nCAMERA: Close-up of Juliana carefully administering the herbal brew with a small wooden spoon into the sick boy's mouth.\nACTION: The child swallows weakly and lets out a soft cough.\nCAMERA: Close-up of the mother clutching her chest in anxious suspense.\nCAMERA: Medium close-up of Juliana sitting quietly beside the boy, holding two fingers over his wrist to monitor his pulse.\nCAMERA: Over-the-shoulder shot from behind the mother leaning across the table in panic.\nPEASANT MOTHER (Despairing): \"Why isn't it working?\""
+    },
+    {
+      "promo_id": "P13",
+      "episodes_spanned": [
+        26,
+        27
+      ],
+      "segments": [
+        {
+          "episode": 26,
+          "start_line": 36,
+          "end_line": 51,
+          "start_timestamp": "01:30.20",
+          "end_timestamp": "02:00.88",
+          "word_count": 262
+        },
+        {
+          "episode": 27,
+          "start_line": 26,
+          "end_line": 28,
+          "start_timestamp": "00:46.40",
+          "end_timestamp": "00:51.50",
+          "word_count": 44
+        }
+      ],
+      "hook": "The Duchess notices the distinctive signet ring on Juliana's finger, sparking immediate shock.",
+      "cliffhanger": "Violent pounding on the doors interrupts the crucial conversation right as the truth is coming out.",
+      "rationale": "Opens with an intense visual and audio hook of the ring discovery, escalating quickly to a dramatic confrontation at the door.",
+      "word_count": 306,
+      "est_duration_sec": 35.8,
+      "scores": {
+        "hook_velocity": 6.0,
+        "context_independence": 6.0,
+        "cliffhanger_friction": 8.0
+      },
+      "total_score": 6.6,
+      "tier": "Tier 3: Low Priority",
+      "qc_flags": [
+        {
+          "code": "verify_cliffhanger_in_footage",
+          "severity": "warn",
+          "message": "Cliffhanger rests on an action/cut line. The final edit may defuse the tension.",
+          "suggestion": "Watch the footage; confirm the beat lands, or adjust the end timestamp."
+        },
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Significance of the specific signet ring is unexplained; Identity and motives of the Blond Nobleman and Lady Catherine at the door are unknown",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          26,
+          36
+        ],
+        [
+          26,
+          37
+        ],
+        [
+          26,
+          38
+        ],
+        [
+          26,
+          39
+        ],
+        [
+          26,
+          40
+        ],
+        [
+          26,
+          41
+        ],
+        [
+          26,
+          42
+        ],
+        [
+          26,
+          43
+        ],
+        [
+          26,
+          44
+        ],
+        [
+          26,
+          45
+        ],
+        [
+          26,
+          46
+        ],
+        [
+          26,
+          47
+        ],
+        [
+          26,
+          48
+        ],
+        [
+          26,
+          49
+        ],
+        [
+          26,
+          50
+        ],
+        [
+          26,
+          51
+        ],
+        [
+          27,
+          26
+        ],
+        [
+          27,
+          27
+        ],
+        [
+          27,
+          28
+        ]
+      ],
+      "text": "SOUND FX: A sharp, stunned gasp.\nCAMERA: Extreme close-up of the Dowager Duchess gasping sharply, her eyes widening in profound shock as all color drains from her face.\nACTION: The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand.\nCAMERA: Medium shot of the Duchess pushing herself up against the headboard, trembling as she stretches out her frail hand.\nDOWAGER DUCHESS (Breathless, Shaken): \"Your hand... Let me see your hand.\"\nCAMERA: Close-up of Juliana reacting with confusion and growing concern at the elder woman's sudden frenzy.\nJULIANA (Confused, Alarmed): \"Your Grace? What is wrong? You look as though you've seen a ghost.\"\nCAMERA: Close-up shot of the Duchess's withered, shaking hand reaching across the blanket toward Juliana's arm.\nACTION: The Duchess reaches outward with trembling fingers, grasping frantically for Juliana.\nSOUND FX: A sudden sharp rustle of fabric as her fingers snap tight.\nCAMERA: Tight shot of the Duchess's frail hand clamping down with fierce, unexpected strength onto Juliana's dark sleeve.\nDOWAGER DUCHESS (Stern, Desperate): \"Do not move!\"\nCAMERA: Close-up of the Dowager Duchess looking up at Juliana with overwhelming urgency and tears brimming in her wide eyes.\nDOWAGER DUCHESS (Intense, Demanding): \"Where... where... Where did you get this ring? Speak to me!\"\nCAMERA: Medium close-up of Juliana frozen in shock, her breath catching as the Duchess's desperate words echo in the silence of the room.\nCAMERA: Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding the signet ring between them as a dramatic orchestral cliffhanger chord swells, cutting sharply to black.\n[CUT]\nSOUND FX: Loud, violent pounding echoes on the wooden double doors.\nCAMERA: Juliana gasps, snapping her head toward the entrance in alarm.\nACTION: The heavy mahogany double doors burst open, revealing the Blond Nobleman flanked by Lady Catherine and a royal guard in uniform."
+    },
+    {
+      "promo_id": "P21",
+      "episodes_spanned": [
+        36
+      ],
+      "segments": [
+        {
+          "episode": 36,
+          "start_line": 84,
+          "end_line": 120,
+          "start_timestamp": "02:15.00",
+          "end_timestamp": "03:20.75",
+          "word_count": 448
+        }
+      ],
+      "hook": "Alexander's mother delivers the devastating news that Juliana has been condemned to death.",
+      "cliffhanger": "Alexander vows that their dead Duke is coming home, ending on an ominous orchestral swell.",
+      "rationale": "High-stakes emotional escalation from the death sentence announcement to a chilling promise of vengeance, perfect for driving immediate viewer engagement.",
+      "word_count": 448,
+      "est_duration_sec": 65.8,
+      "scores": {
+        "hook_velocity": 5.0,
+        "context_independence": 7.0,
+        "cliffhanger_friction": 8.0
+      },
+      "total_score": 6.5,
+      "tier": "Hold: fix QC errors",
+      "qc_flags": [
+        {
+          "code": "pacing_too_long",
+          "severity": "error",
+          "message": "Estimated 66s (pauses/crying included) > 60s.",
+          "suggestion": "Cut lines; verify real runtime on footage."
+        },
+        {
+          "code": "pronoun_soup",
+          "severity": "warn",
+          "message": "Opens with pronouns (he/she/you/him) and names nobody; a new viewer won't know who is who.",
+          "suggestion": "Prepend an establishing line, add an on-screen caption, or start earlier."
+        },
+        {
+          "code": "verify_cliffhanger_in_footage",
+          "severity": "warn",
+          "message": "Cliffhanger rests on an action/cut line. The final edit may defuse the tension.",
+          "suggestion": "Watch the footage; confirm the beat lands, or adjust the end timestamp."
+        },
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Rupert and Catherine; Juliana; unexplained backstory of how he lost his name and home",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          36,
+          84
+        ],
+        [
+          36,
+          85
+        ],
+        [
+          36,
+          86
+        ],
+        [
+          36,
+          87
+        ],
+        [
+          36,
+          88
+        ],
+        [
+          36,
+          89
+        ],
+        [
+          36,
+          90
+        ],
+        [
+          36,
+          91
+        ],
+        [
+          36,
+          92
+        ],
+        [
+          36,
+          93
+        ],
+        [
+          36,
+          94
+        ],
+        [
+          36,
+          95
+        ],
+        [
+          36,
+          96
+        ],
+        [
+          36,
+          97
+        ],
+        [
+          36,
+          98
+        ],
+        [
+          36,
+          99
+        ],
+        [
+          36,
+          100
+        ],
+        [
+          36,
+          101
+        ],
+        [
+          36,
+          102
+        ],
+        [
+          36,
+          103
+        ],
+        [
+          36,
+          104
+        ],
+        [
+          36,
+          105
+        ],
+        [
+          36,
+          106
+        ],
+        [
+          36,
+          107
+        ],
+        [
+          36,
+          108
+        ],
+        [
+          36,
+          109
+        ],
+        [
+          36,
+          110
+        ],
+        [
+          36,
+          111
+        ],
+        [
+          36,
+          112
+        ],
+        [
+          36,
+          113
+        ],
+        [
+          36,
+          114
+        ],
+        [
+          36,
+          115
+        ],
+        [
+          36,
+          116
+        ],
+        [
+          36,
+          117
+        ],
+        [
+          36,
+          118
+        ],
+        [
+          36,
+          119
+        ],
+        [
+          36,
+          120
+        ]
+      ],
+      "text": "CAMERA: Close-up on his mother looking up through her tears, delivering the horrifying reality.\nALEXANDER'S MOTHER (Solemn, Shattered): \"She is to be executed.\"\nCAMERA: Wide shot of the cabin as Alexander stands stiff as iron, stunned by the looming death sentence.\nALEXANDER (Guttural, Demanding): \"When?\"\nCAMERA: Close-up on his mother, her hand clutched tightly against her throat.\nALEXANDER'S MOTHER (Trembling): \"After the wedding.\"\nCAMERA: Close-up on Alexander, narrowing his eyes in lethal suspicion.\nALEXANDER (Cold, Menacing): \"What wedding?\"\nCAMERA: Profile close-up of his mother looking at him across the lantern light.\nALEXANDER'S MOTHER (Grim): \"Rupert... and Catherine's.\"\nSOUND FX: A sudden dramatic metallic swell underscores the impending deadline.\nCAMERA: Frontal close-up on his mother, solemn and resolute in her warning.\nALEXANDER'S MOTHER (Deadly Serious): \"Two days from now.\"\nCAMERA: Profile shot of Alexander as dark realization settles over his face, turning to a grim, predatory glare.\nALEXANDER (Simmering with Fury): \"They are marrying in two days...\"\nCAMERA: Tight, terrifying close-up on Alexander's eyes flashing with murderous wrath.\nALEXANDER (Deadly, Throaty): \"...and killing my wife afterward.\"\nCAMERA: Medium shot as his mother urgently grabs Alexander's coat, pleading with him.\nALEXANDER'S MOTHER (Pleading, Terrified): \"Alexander, you cannot go back there alone!\"\nCAMERA: Close-up on Alexander, towering over her, immovable and consumed by purpose.\nALEXANDER (Grave, Seething): \"They already took my name.\"\nCAMERA: Close-up on Alexander stepping forward, his voice rising with lethal thunder.\nALEXANDER (Roaring with Conviction): \"They stole my home!\"\nCAMERA: Tight close-up on his furious, bared teeth and wild eyes.\nALEXANDER (Venomous): \"And now they have taken Juliana!\"\nACTION: Close-up of Alexander's gloved hand clenching into a tight, leather-creaking fist.\nSOUND FX: The sharp, taut creak of leather straining under monstrous grip strength.\nCAMERA: Tracking shot following Alexander as he turns his back on the warmth of the cabin and walks boldly toward the open double barn doors.\nACTION: Alexander stands framed in the doorway, staring out into the vast, snow-covered pine forest under the cold moonlight.\nALEXANDER (Calm, Chilling): \"Two days.\"\nCAMERA: Medium shot from inside the cabin, showing his mother clutching her chest, looking after Alexander's imposing silhouette standing at the threshold of the blizzard.\nALEXANDER (Vow of Vengeance): \"Then they have two days to celebrate.\"\nCAMERA: Side profile close-up on Alexander as his breath fogs into the icy winter night air, his jaw clenched tight.\nALEXANDER (Low, Menacing Promise): \"Because before that wedding begins...\"\nCAMERA: Tight side profile close-up of Alexander's battle-scarred cheek and burning gaze as he makes his final declaration.\nALEXANDER (Cold, Thunderous Finale): \"...their dead Duke is coming home.\"\nACTION: Alexander stares resolutely ahead into the dark, snowy woods as the camera holds on his grim, determined expression before cutting to black."
+    },
+    {
+      "promo_id": "P24",
+      "episodes_spanned": [
+        45
+      ],
+      "segments": [
+        {
+          "episode": 45,
+          "start_line": 54,
+          "end_line": 74,
+          "start_timestamp": "01:20.50",
+          "end_timestamp": "02:01.75",
+          "word_count": 338
+        }
+      ],
+      "hook": "Catherine gasps in utter disbelief as Alexander walks past her to choose Juliana.",
+      "cliffhanger": "Catherine smiles a venomous, triumphant smirk as the High Priest claims Juliana is not Alexander's lawful wife, leaving her fate completely uncertain.",
+      "rationale": "High-stakes confrontation with strong emotional shifts, opening on betrayal and ending on a vindictive cliffhanger that begs for the next episode.",
+      "word_count": 338,
+      "est_duration_sec": 41.2,
+      "scores": {
+        "hook_velocity": 4.0,
+        "context_independence": 7.0,
+        "cliffhanger_friction": 9.0
+      },
+      "total_score": 6.4,
+      "tier": "Tier 3: Low Priority",
+      "qc_flags": [
+        {
+          "code": "verify_cliffhanger_in_footage",
+          "severity": "warn",
+          "message": "Cliffhanger rests on an action/cut line. The final edit may defuse the tension.",
+          "suggestion": "Watch the footage; confirm the beat lands, or adjust the end timestamp."
+        },
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Rupert and Mary are introduced reacting to Juliana without prior context; Catherine's identity and rivalry with Juliana are implied but not explicitly explained to a brand-new viewer",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          45,
+          54
+        ],
+        [
+          45,
+          55
+        ],
+        [
+          45,
+          56
+        ],
+        [
+          45,
+          57
+        ],
+        [
+          45,
+          58
+        ],
+        [
+          45,
+          59
+        ],
+        [
+          45,
+          60
+        ],
+        [
+          45,
+          61
+        ],
+        [
+          45,
+          62
+        ],
+        [
+          45,
+          63
+        ],
+        [
+          45,
+          64
+        ],
+        [
+          45,
+          65
+        ],
+        [
+          45,
+          66
+        ],
+        [
+          45,
+          67
+        ],
+        [
+          45,
+          68
+        ],
+        [
+          45,
+          69
+        ],
+        [
+          45,
+          70
+        ],
+        [
+          45,
+          71
+        ],
+        [
+          45,
+          72
+        ],
+        [
+          45,
+          73
+        ],
+        [
+          45,
+          74
+        ]
+      ],
+      "text": "CAMERA: Close-up on Rupert and Mary standing in the pews, their eyes wide with horrified disbelief.\nRUPERT (Gasping, Shellshocked): \"Juliana?!\"\nCAMERA: Wide shot of Alexander and Juliana standing proudly together, exchanging a loving gaze amid the awestruck crowd.\nCAMERA: Wide tracking shot down the cathedral aisle as the massive wooden entrance doors slam open, framed by blinding daylight and mist.\nSOUND FX: Loud, echoing thud of cathedral doors swinging open violently.\nACTION: A Catholic Bishop in dark vestments steps through the cathedral doors accompanied by an armed Crown officer.\nHIGH PRIEST (Booming, Stern): \"No one will bow yet!\"\nCAMERA: Low-angle shot on Alexander and Juliana turning in alarm toward the rear of the cathedral.\nCAMERA: Medium shot of the High Priest striding down the aisle, holding up an official royal parchment bearing red wax seals.\nACTION: The Priest holds up the sealed royal proclamation, holding his rosary beads as he marches forward.\nHIGH PRIEST (Commanding, Severe): \"This ceremony was performed without a Crown marriage license, by a priest without authority to sanctify a ducal union.\"\nCAMERA: Close-up on the High Priest unfolding the document, reading aloud to the congregation.\nHIGH PRIEST (Stern, Official): \"These vows were never entered into the Royal Matrimonial Register.\"\nCAMERA: Medium shot of Alexander shielding Juliana behind him as the Crown officer approaches with drawn sword.\nHIGH PRIEST (O.S., Harsh, Resolute): \"Before the Crown, you are not Duchess of Ashburton.\"\nCAMERA: Close-up of the High Priest scowling directly at Juliana with unyielding authority.\nHIGH PRIEST (Unyielding, Condemning): \"You are not Alexander Ashburton's lawful wife.\"\nCAMERA: Close-up two-shot of Juliana gasping in terror, clutching Alexander's hand tightly as Alexander glares at the Priest.\nACTION: Juliana looks up at Alexander in sudden panic, her fingers gripping his leather-gloved hand.\nCAMERA: Slow push-in close-up on Catherine beneath her veil, her initial despair morphing into a cold, venomous, triumphant smile as the episode cuts.\nACTION: Catherine raises her chin, a vindictive smirk spreading across her lips as she realizes her rival's claim has just been torn to pieces."
+    },
+    {
+      "promo_id": "P5",
+      "episodes_spanned": [
+        5,
+        6
+      ],
+      "segments": [
+        {
+          "episode": 5,
+          "start_line": 31,
+          "end_line": 37,
+          "start_timestamp": "00:54.00",
+          "end_timestamp": "01:04.60",
+          "word_count": 104
+        },
+        {
+          "episode": 5,
+          "start_line": 54,
+          "end_line": 56,
+          "start_timestamp": "01:31.00",
+          "end_timestamp": "01:36.50",
+          "word_count": 38
+        },
+        {
+          "episode": 6,
+          "start_line": 86,
+          "end_line": 91,
+          "start_timestamp": "01:38.40",
+          "end_timestamp": "01:46.00",
+          "word_count": 70
+        }
+      ],
+      "hook": "Lady Ashcroft violently snatches the precious heirloom ledger from Juliana and flings it into the muddy courtyard.",
+      "cliffhanger": "Juliana reflects on losing everything she thought her life would be, ending on a quiet, unresolved emotional beat as the fire glows.",
+      "rationale": "A punchy, dramatic teaser opening with the cruel destruction of her mother's heirloom and ending on the poignant vulnerability of her new beginning.",
+      "word_count": 212,
+      "est_duration_sec": 23.7,
+      "scores": {
+        "hook_velocity": 8.0,
+        "context_independence": 7.0,
+        "cliffhanger_friction": 3.0
+      },
+      "total_score": 6.2,
+      "tier": "Tier 3: Low Priority",
+      "qc_flags": [
+        {
+          "code": "verify_cliffhanger_in_footage",
+          "severity": "warn",
+          "message": "Cliffhanger rests on an action/cut line. The final edit may defuse the tension.",
+          "suggestion": "Watch the footage; confirm the beat lands, or adjust the end timestamp."
+        },
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Who is Barbara in relation to Lady Ashcroft?; What is the exact relationship history between Juliana, Gerald, and Clarissa?",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          5,
+          31
+        ],
+        [
+          5,
+          32
+        ],
+        [
+          5,
+          33
+        ],
+        [
+          5,
+          34
+        ],
+        [
+          5,
+          35
+        ],
+        [
+          5,
+          36
+        ],
+        [
+          5,
+          37
+        ],
+        [
+          5,
+          54
+        ],
+        [
+          5,
+          55
+        ],
+        [
+          5,
+          56
+        ],
+        [
+          6,
+          86
+        ],
+        [
+          6,
+          87
+        ],
+        [
+          6,
+          88
+        ],
+        [
+          6,
+          89
+        ],
+        [
+          6,
+          90
+        ],
+        [
+          6,
+          91
+        ]
+      ],
+      "text": "CAMERA: Close-up on the ledger as Lady Ashcroft violently wrenches it out of Juliana's grip.\nACTION: Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard.\nJULIANA (Screaming, Desperate): \"Barbara, don't!\"\nSOUND FX: A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.\nCAMERA: Medium shot of Clarissa and Gerald standing together on the cathedral steps. Clarissa clasps a gloved hand to her mouth in mock shock before bursting into gleeful laughter.\nCLARISSA (Gleeful, Mocking): \"Even your mother's precious legacy has been cast into the dirt!\"\nGERALD (Smug, Cruel): \"Perhaps that is where it belongs.\"\n[CUT]\nCAMERA: Low-angle shot of Gerald standing high on the stone steps, grinning arrogantly as he points an accusatory finger down at them.\nGERALD (Mocking, Arrogant): \"Look at you.\"\nGERALD (Scornful, Spiteful): \"A noblewoman reduced to a beggar's wife!\"\n[CUT]\nJULIANA (V.O., Reflective, Vulnerable): \"I lost my home today.\"\nJULIANA (V.O., Reflective, Vulnerable): \"My family.\"\nCAMERA: Close-up of the glowing embers and dancing flames inside the fireplace.\nJULIANA (V.O., Reflective, Vulnerable): \"Everything I thought my life would be.\"\nCAMERA: Close-up on the Mysterious Bearded Man's scarred, work-worn hands resting quietly on his knees.\nCAMERA: Medium close-up of Juliana looking down into the flames, a peaceful serenity washing over her features."
+    },
+    {
+      "promo_id": "P4",
+      "episodes_spanned": [
+        4
+      ],
+      "segments": [
+        {
+          "episode": 4,
+          "start_line": 4,
+          "end_line": 7,
+          "start_timestamp": "00:03.20",
+          "end_timestamp": "00:07.50",
+          "word_count": 38
+        },
+        {
+          "episode": 4,
+          "start_line": 82,
+          "end_line": 84,
+          "start_timestamp": "01:50.00",
+          "end_timestamp": "01:54.80",
+          "word_count": 37
+        }
+      ],
+      "hook": "Gerald steps forward with a sneering grin, publicly mocking the stranger as a penniless nobody.",
+      "cliffhanger": "The priest pronounces them husband and wife, triggering Gerald's furious outburst.",
+      "rationale": "Opens with biting public mockery and cuts straight to a defiance-filled marriage pronouncement.",
+      "word_count": 75,
+      "est_duration_sec": 9.1,
+      "scores": {
+        "hook_velocity": 5.0,
+        "context_independence": 7.0,
+        "cliffhanger_friction": 6.0
+      },
+      "total_score": 5.9,
+      "tier": "Tier 3: Low Priority",
+      "qc_flags": [
+        {
+          "code": "word_budget",
+          "severity": "warn",
+          "message": "75 words < 100 min.",
+          "suggestion": "Extend the segment or merge with the payoff scene."
+        },
+        {
+          "code": "pacing_too_short",
+          "severity": "warn",
+          "message": "Estimated 9s < 20s.",
+          "suggestion": ""
+        },
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Who 'him' and the 'discarded bride' are is not visually established in the hook.; The relationship between Gerald and the couple getting married is assumed rather than explicitly stated.",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          4,
+          7
+        ],
+        [
+          4,
+          82
+        ],
+        [
+          4,
+          83
+        ],
+        [
+          4,
+          84
+        ]
+      ],
+      "text": "CAMERA: Medium shot of Gerald stepping forward from his pew with a smug, sneering grin.\nGERALD (Mocking, Arrogant): \"Look at him.\"\nCAMERA: Tight close-up of Gerald's venomous, self-satisfied face.\nGERALD (Scornful): \"A penniless nobody for a discarded bride.\"\n[CUT]\nTHE PRIEST (Ceremonial): \"By the authority entrusted to me, I now pronounce you...\"\nCAMERA: High wide establishing shot looking down from the ceiling vaults of the cathedral onto the altar.\nTHE PRIEST (Off-Screen, Booming): \"...husband and wife!\""
+    },
+    {
+      "promo_id": "P10",
+      "episodes_spanned": [
+        21
+      ],
+      "segments": [
+        {
+          "episode": 21,
+          "start_line": 5,
+          "end_line": 5,
+          "start_timestamp": "00:04.20",
+          "end_timestamp": "00:08.00",
+          "word_count": 14
+        },
+        {
+          "episode": 21,
+          "start_line": 14,
+          "end_line": 14,
+          "start_timestamp": "00:18.20",
+          "end_timestamp": "00:21.70",
+          "word_count": 15
+        },
+        {
+          "episode": 21,
+          "start_line": 29,
+          "end_line": 29,
+          "start_timestamp": "00:42.80",
+          "end_timestamp": "00:45.50",
+          "word_count": 16
+        }
+      ],
+      "hook": "Prudence rushes into the barn, crying desperately that Toby is dying.",
+      "cliffhanger": "Heavy, raspy chest coughs echo as Toby struggles to breathe, leaving his fate unknown.",
+      "rationale": "High-stakes medical emergency hook with an immediate, breathless cliffhanger that pulls viewers in.",
+      "word_count": 45,
+      "est_duration_sec": 10.0,
+      "scores": {
+        "hook_velocity": 5.0,
+        "context_independence": 6.0,
+        "cliffhanger_friction": 7.0
+      },
+      "total_score": 5.9,
+      "tier": "Tier 3: Low Priority",
+      "qc_flags": [
+        {
+          "code": "word_budget",
+          "severity": "warn",
+          "message": "45 words < 100 min.",
+          "suggestion": "Extend the segment or merge with the payoff scene."
+        },
+        {
+          "code": "pacing_too_short",
+          "severity": "warn",
+          "message": "Estimated 10s < 20s.",
+          "suggestion": ""
+        },
+        {
+          "code": "verify_cliffhanger_in_footage",
+          "severity": "warn",
+          "message": "Cliffhanger rests on an action/cut line. The final edit may defuse the tension.",
+          "suggestion": "Watch the footage; confirm the beat lands, or adjust the end timestamp."
+        },
+        {
+          "code": "talking_head",
+          "severity": "warn",
+          "message": "Promo is almost entirely dialogue with minimal visual action.",
+          "suggestion": "Look for a version with more physical blocking or dramatic camera work."
+        },
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Who is Lady Juliana and what authority does she have to help?; Why is 'silver' tied to Toby's ability to receive medical help?",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          21,
+          5
+        ],
+        [
+          21,
+          14
+        ],
+        [
+          21,
+          29
+        ]
+      ],
+      "text": "PRUDENCE (Desperate, Panicked): \"Lady Juliana! Please! You have to help me, Toby is dying!\"\n[CUT]\nPRUDENCE (Anguished, Resentful): \"He shut the door in my face because we have no silver!\"\n[CUT]\nSOUND FX: Heavy, raspy chest coughs echoing in the small room, accompanied by crackling hearth fire."
+    },
+    {
+      "promo_id": "P20",
+      "episodes_spanned": [
+        35,
+        36
+      ],
+      "segments": [
+        {
+          "episode": 35,
+          "start_line": 20,
+          "end_line": 22,
+          "start_timestamp": "00:37.00",
+          "end_timestamp": "00:44.20",
+          "word_count": 22
+        },
+        {
+          "episode": 35,
+          "start_line": 70,
+          "end_line": 70,
+          "start_timestamp": "02:25.50",
+          "end_timestamp": "02:30.00",
+          "word_count": 14
+        },
+        {
+          "episode": 36,
+          "start_line": 62,
+          "end_line": 62,
+          "start_timestamp": "01:39.50",
+          "end_timestamp": "01:43.20",
+          "word_count": 6
+        }
+      ],
+      "hook": "Alexander's presumed-dead mother stumbles into a secluded cabin and reunites with him in shock.",
+      "cliffhanger": "Alexander's mother wails that Juliana was arrested for poisoning her, leaving Alexander's fate and Juliana's life hanging in the balance.",
+      "rationale": "High emotional impact combining a shocking family reunion, a dark conspiracy reveal, and a desperate cliffhanger arrest.",
+      "word_count": 42,
+      "est_duration_sec": 15.4,
+      "scores": {
+        "hook_velocity": 4.0,
+        "context_independence": 6.0,
+        "cliffhanger_friction": 8.0
+      },
+      "total_score": 5.8,
+      "tier": "Tier 3: Low Priority",
+      "qc_flags": [
+        {
+          "code": "word_budget",
+          "severity": "warn",
+          "message": "42 words < 100 min.",
+          "suggestion": "Extend the segment or merge with the payoff scene."
+        },
+        {
+          "code": "pacing_too_short",
+          "severity": "warn",
+          "message": "Estimated 15s < 20s.",
+          "suggestion": ""
+        },
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Who is 'Juliana' and why was she arrested for poisoning?; Who are 'the men behind it' and 'the men ruling Ashwood now'?",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          35,
+          20
+        ],
+        [
+          35,
+          21
+        ],
+        [
+          35,
+          22
+        ],
+        [
+          35,
+          70
+        ],
+        [
+          36,
+          62
+        ]
+      ],
+      "text": "ALEXANDER'S MOTHER (Sobbing, Stunned): \"Alexander!\"\nCAMERA: Close-up on Alexander as his hard expression crumbles into utter astonishment.\nALEXANDER (Breathless, In Disbelief): \"Mother?\"\n[CUT]\nALEXANDER (Deadly, Chilling): \"The men behind it... are the same men ruling Ashwood now.\"\n[CUT]\nALEXANDER'S MOTHER (Wailing): \"They arrested her!\""
+    },
+    {
+      "promo_id": "P25",
+      "episodes_spanned": [
+        47,
+        48,
+        49
+      ],
+      "segments": [
+        {
+          "episode": 47,
+          "start_line": 53,
+          "end_line": 53,
+          "start_timestamp": "01:39.20",
+          "end_timestamp": "01:41.00",
+          "word_count": 7
+        },
+        {
+          "episode": 48,
+          "start_line": 3,
+          "end_line": 3,
+          "start_timestamp": "00:02.40",
+          "end_timestamp": "00:07.50",
+          "word_count": 18
+        },
+        {
+          "episode": 49,
+          "start_line": 33,
+          "end_line": 33,
+          "start_timestamp": "01:12.60",
+          "end_timestamp": "01:16.80",
+          "word_count": 17
+        }
+      ],
+      "hook": "Juliana forces Catherine to serve as a common scullery maid.",
+      "cliffhanger": "Father Thomas demands to know what Catherine actually needs from him, leaving her next move shrouded in secrecy.",
+      "rationale": "High-impact opening where the fallen villainess is publicly degraded, followed by her secret conspiracy to ruin the wedding.",
+      "word_count": 42,
+      "est_duration_sec": 11.1,
+      "scores": {
+        "hook_velocity": 4.0,
+        "context_independence": 4.0,
+        "cliffhanger_friction": 5.0
+      },
+      "total_score": 4.3,
+      "tier": "Tier 3: Low Priority",
+      "qc_flags": [
+        {
+          "code": "word_budget",
+          "severity": "warn",
+          "message": "42 words < 100 min.",
+          "suggestion": "Extend the segment or merge with the payoff scene."
+        },
+        {
+          "code": "pacing_too_short",
+          "severity": "warn",
+          "message": "Estimated 11s < 20s.",
+          "suggestion": ""
+        },
+        {
+          "code": "talking_head",
+          "severity": "warn",
+          "message": "Promo is almost entirely dialogue with minimal visual action.",
+          "suggestion": "Look for a version with more physical blocking or dramatic camera work."
+        },
+        {
+          "code": "context_gap",
+          "severity": "warn",
+          "message": "Judge says a new viewer would miss: Unexplained relationship between Juliana and Catherine; Unclear what 'healer's crown' refers to; Unstated history between Catherine and Father Thomas",
+          "suggestion": "Add context line/caption or pick a different start point."
+        }
+      ],
+      "needs_human_review": true,
+      "covered_lines": [
+        [
+          47,
+          53
+        ],
+        [
+          48,
+          3
+        ],
+        [
+          49,
+          33
+        ]
+      ],
+      "text": "JULIANA (Unflinching, Firm): \"As a scullery maid.\"\n[CUT]\nCATHERINE (Vindictive, Cold): \"Two words, and that healer's crown rolls right back into the gutter where it belongs.\"\n[CUT]\nFATHER THOMAS (Direct): \"What is it you actually need from me, Catherine? Say it plainly, for once.\""
+    }
+  ]
+}
