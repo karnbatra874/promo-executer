@@ -1,0 +1,77 @@
+# ------------------------------------------------------------------
+# Values marked [SPEC] come from your architecture document.
+# Values marked [ASSUMED] are my defaults - confirm or change them.
+# Values marked [YOU TUNE] should be calibrated against real footage.
+# ------------------------------------------------------------------
+model: gemini-3.5-flash-lite    # free-tier RPM is rate-limited by the client
+max_tokens: 4000
+
+chunk:
+  max_words: 2500               # [ASSUMED] words per LLM call (several episodes)
+  overlap_lines: 10             # [ASSUMED] overlap so hooks at chunk edges aren't lost
+
+timing:
+  words_per_minute: 150         # [SPEC]
+  seconds_per_pause: 1.5        # [YOU TUNE] extra seconds per pause/cry/stutter marker
+  calibration_factor: 1.0       # [YOU TUNE] output of `calibrate` command goes here
+  pause_patterns:               # [YOU TUNE] regexes that signal slow delivery in YOUR scripts
+    - '\.\.\.'
+    - '…'
+    - '—'
+    - '--'
+    - '\bpaus(?:es?|ing|ed)\b'
+    - '\bhesitat(?:es?|ing|ed)\b'
+    - '\bsilence\b'
+    - '\bfreez(?:es?|ing|ed)\b'
+    - '\bslowly\b'
+
+promo:
+  min_words: 100                 # [SPEC]
+  max_words: 600                # [SPEC]
+  min_seconds: 20               # [SPEC]
+  max_seconds: 60               # [SPEC]
+  hook_window_words: 10         # [SPEC] hook must land in first 10 words
+
+ranking:
+  weights:                      # [SPEC]
+    hook_velocity: 0.4
+    context_independence: 0.3
+    cliffhanger_friction: 0.3
+  tiers:
+    tier1: 8.5                  # [SPEC] "Tier 1: Post Immediately"
+    tier2: 7.0                  # [ASSUMED] not in spec - edit or delete
+
+qc:
+  # Pronoun soup
+  pronouns: [he, she, him, her, his, hers, they, them, their, you, your, it]
+  pronoun_window_words: 15
+  pronoun_context_lines: 2
+  # False cliffhangers: endings that depend on how the director cut the scene
+  false_cliffhanger_patterns:   # [YOU TUNE]
+    - 'walks? away'
+    - 'turns? and leaves?'
+    - 'exits? the room'
+    - 'closes? the door'
+    - 'sits? down'
+  # Silent visual hooks: action lines the text tool under-scores
+  visual_hook_keywords:         # [YOU TUNE]
+    - 'slap'
+    - 'punch'
+    - 'strike'
+    - 'grab'
+    - 'seize'
+    - 'collapse'
+    - 'kneel'
+    - 'blood'
+    - 'wound'
+    - 'scar'
+    - 'ring'
+    - 'letter'
+    - 'document'
+    - 'poison'
+    - 'knife'
+    - 'sword'
+    - 'Cut to black'
+    - 'slow fade'
+    - 'reveal'
+  visual_hook_max_words: 14

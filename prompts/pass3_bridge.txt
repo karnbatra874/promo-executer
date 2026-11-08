@@ -1,0 +1,25 @@
+PASS 3 - CROSS-EPISODE PROMOS.
+
+Below is a digest of consecutive episodes: only the OPENING LINES and ENDING LINES of each one. Every line is labelled [E<episode>:L<line> <start>-<end>] with its exact on-screen time (MM:SS.SS).
+
+Find promos that join moments from TWO OR MORE different episodes, for example a shocking hook near the end of one episode plus the payoff or a bigger cliffhanger at the start of the next. Only propose a promo if joining the episodes makes it clearly stronger than any single-episode clip. Return {"promos": []} if there is none.
+
+Rules:
+- Duration = sum over segments of (end time of last line minus start time of first line). It MUST be between {{MIN_SECONDS}} and {{MAX_SECONDS}} seconds; aim for 30-55.
+- The first segment must open on a hook within {{HOOK_SECONDS}} seconds; give its line number as "hook_line" (a line inside the first segment).
+- End on an unresolved cliffhanger; quote the last line exactly as "ending_line".
+- Must make sense to someone who has never seen the show (no unnamed he/she/you openings).
+- Each segment is a contiguous range of line numbers shown below, within ONE episode, in playback order. Use ONLY lines that appear in this digest, and both start_line and end_line must be shown lines.
+
+Return JSON exactly like:
+{"promos": [{
+  "segments": [{"episode": 4, "start_line": 40, "end_line": 44}, {"episode": 5, "start_line": 1, "end_line": 8}],
+  "hook_line": 40,
+  "hook": "...",
+  "cliffhanger": "...",
+  "ending_line": "...",
+  "rationale": "..."
+}]}
+
+DIGEST:
+{{DIGEST}}

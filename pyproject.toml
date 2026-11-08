@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "promo-tool"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = ["google-genai>=1.0.0", "pydantic>=2.5", "pyyaml>=6.0", "python-dotenv>=1.0"]
+
+[project.scripts]
+promo-tool = "promo_tool.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

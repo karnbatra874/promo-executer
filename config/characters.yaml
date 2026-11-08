@@ -1,0 +1,104 @@
+# >>> YOU FILL THIS for every show you process.
+# Used by the "pronoun soup" QC check: if a promo opens with he/she/you/him but never
+# names or labels anyone, it is flagged. List every name AND role/alias viewers would recognise.
+characters:
+  - name: Juliana
+    aliases: [JULIANA, LADY JULIANA]
+  - name: Alexander
+    aliases: [ALEXANDER, THE BEARDED STRANGER, MYSTERIOUS BEARDED MAN, SCARRED BEARDED MAN]
+  - name: Gerald
+    aliases: [GERALD, THE FORMER GROOM]
+  - name: Clarissa
+    aliases: [CLARISSA, LADY CLARISSA, LADY IN GOLD GOWN]
+  - name: Catherine
+    aliases: [CATHERINE, LADY CATHERINE]
+  - name: Matriarch
+    aliases: [MATRIARCH, NOBLE MATRIARCH]
+  - name: Father Thomas
+    aliases: [FATHER THOMAS, THE PRIEST, PRIEST, HIGH PRIEST]
+  - name: Prudence
+    aliases: [PRUDENCE]
+  - name: Agnes
+    aliases: [AGNES]
+  - name: Rupert
+    aliases: [RUPERT]
+  - name: Seamus
+    aliases: [SEAMUS]
+  - name: Vaughn
+    aliases: [VAUGHN]
+  - name: Lord Ashcroft
+    aliases: [LORD ASHCROFT, LORD]
+  - name: Lady Ashcroft
+    aliases: [LADY ASHCROFT, NOBLEWOMAN]
+  - name: Lord Harrington
+    aliases: [LORD HARRINGTON]
+  - name: Lady Harrington
+    aliases: [LADY HARRINGTON]
+  - name: Lord Sterling
+    aliases: [LORD STERLING]
+  - name: Lady Ashbourne
+    aliases: [LADY ASHBOURNE]
+  - name: Alexander's Mother
+    aliases: [ALEXANDER'S MOTHER]
+  - name: Dowager Duchess
+    aliases: [DOWAGER DUCHESS]
+  - name: Blond Nobleman
+    aliases: [BLOND NOBLEMAN, ELDER NOBLEMAN]
+
+  # Minor/generic roles (don't need aliases)
+  - name: ARISTOCRATIC WOMAN
+    aliases: []
+  - name: BALD THUG
+    aliases: []
+  - name: BUTLER
+    aliases: []
+  - name: CART DRIVER
+    aliases: []
+  - name: CONSPIRATOR
+    aliases: []
+  - name: CONSTABLE
+    aliases: []
+  - name: CROWN OFFICIAL
+    aliases: []
+  - name: ELDER VILLAGER
+    aliases: []
+  - name: FOOTMAN
+    aliases: []
+  - name: GUARD
+    aliases: []
+  - name: HOUSEKEEPER
+    aliases: []
+  - name: INFORMANT
+    aliases: []
+  - name: JUDGE
+    aliases: []
+  - name: LOYALIST
+    aliases: []
+  - name: LOYALIST FIGHTER
+    aliases: []
+  - name: LOYALIST SCOUT
+    aliases: []
+  - name: MAID
+    aliases: []
+  - name: NOBLEMAN
+    aliases: []
+  - name: OFF-SCREEN VOICE
+    aliases: []
+  - name: OLD WOMAN
+    aliases: []
+  - name: PEASANT MOTHER
+    aliases: []
+  - name: POLICE CONSTABLE
+    aliases: []
+  - name: ROYAL GUARD
+    aliases: []
+  - name: ROYAL SENTRY
+    aliases: []
+  - name: TALL THUG
+    aliases: []
+  - name: THIRD THUG
+    aliases: []
+  - name: THUG WITH CAP
+    aliases: []
+  - name: TOWNSMAN
+    aliases: []

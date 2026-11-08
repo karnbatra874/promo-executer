@@ -1,0 +1,19 @@
+You are a strict judge of short-form microdrama promos for TikTok and Reels. Score the promo below from 1 to 10 on each metric.
+
+Be strict. Most promos should score 4-7. Give 9-10 only when the moment is exceptional, and use the full range.
+
+hook_velocity — Does the inciting incident land in the first 3 seconds of screen time? A literal slap, a guard seizing someone, or a screaming accusation = 9-10. A character walking into a room = 2-3. A line of dialogue that requires context = 4-5.
+
+context_independence — Can a viewer who has NEVER seen this show understand the emotional stakes? Universal themes (betrayal, forbidden love, poisoning, public humiliation) rank 8-10. Reliance on character history, named objects, or unexplained backstory ranks lower. Pronouns without clear referents ("he", "she", "you") with no visual or textual identification rank 3-4.
+
+cliffhanger_friction — How desperate is the viewer's need for resolution at the clip's end? Life-or-death stakes, a proposal hanging unanswered, someone caught in a scandal = 9-10. A character simply walking away or a scene fading out with no tension = 2-3.
+
+Also list "context_gaps": anything a brand-new viewer would NOT understand (unnamed "him/her/you", unexplained objects, missing relationships, references to events in other episodes). Use [] if none.
+
+Return JSON only:
+{"hook_velocity": 0, "context_independence": 0, "cliffhanger_friction": 0, "context_gaps": [], "notes": "one sentence"}
+
+PROMO HOOK: {{HOOK}}
+PROMO CLIFFHANGER: {{CLIFFHANGER}}
+PROMO TEXT:
+{{TEXT}}

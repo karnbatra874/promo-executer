@@ -1,0 +1,30 @@
+PASS 2 - BUILD PROMO SEGMENTS FROM THE ANCHORS.
+
+Every script line is labelled [E<episode>:L<line> <start>-<end>] with its exact on-screen time (MM:SS.SS).
+
+For each hook anchor, expand outward to build ONE promo that opens on the hook and ends on a cliffhanger.
+
+Rules:
+- LENGTH IS MEASURED IN SECONDS, NOT WORDS. The promo's duration is (end time of its last line minus start time of its first line), added up across all of its segments. It MUST be between {{MIN_SECONDS}} and {{MAX_SECONDS}} seconds. Aim for 30-55 seconds. Work the sum out from the labels before you answer; a promo under {{MIN_SECONDS}} seconds is a failure.
+- The hook must land within the first {{HOOK_SECONDS}} seconds of the promo. Start the promo AT the hook (or at the single shot that sets it up), not with slow establishing material. Give the hook's line number as "hook_line".
+- The promo must end on an unresolved cliffhanger. Stop on the last line BEFORE the tension is released or answered. Quote that last line exactly as "ending_line".
+- A new viewer must understand it without prior episodes. Avoid openings with unnamed pronouns (he/she/you) unless the character is visually obvious from the shot.
+- You may STITCH several non-contiguous segments (even from different episodes in this chunk) if the hook and the payoff are in different places.
+- Use only line numbers [E<ep>:L<n>] that exist in the chunk. Each segment is a contiguous line range within ONE episode, listed in playback order.
+
+Return JSON exactly like:
+{"promos": [{
+  "segments": [{"episode": 1, "start_line": 3, "end_line": 10}],
+  "hook_line": 3,
+  "hook": "one sentence describing the hook moment",
+  "cliffhanger": "the exact last line of the promo, quoted, plus what is left unresolved",
+  "ending_line": "exact text of the last line of the promo",
+  "duration_seconds": 38.5,
+  "rationale": "one line on why this works as a social media promo clip"
+}]}
+
+ANCHORS:
+{{ANCHORS}}
+
+SCRIPT CHUNK:
+{{CHUNK}}

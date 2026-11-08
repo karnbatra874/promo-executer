@@ -1,0 +1,23 @@
+PASS 1 - IDENTIFY HIGH-TENSION ANCHORS.
+
+Scan the script chunk for two kinds of anchor:
+- "hook": A moment that would stop a scrolling viewer in 3 seconds or less. Examples:
+  - A physical strike, slap, or violent gesture (ACTION lines)
+  - A shocking revelation or accusation (dialogue)
+  - A dramatic entrance or unexpected arrival (ACTION + CAMERA)
+  - A visual shock: blood, a weapon, a collapsed body
+- "cliffhanger": An unresolved moment that demands to know what happens next. Examples:
+  - A question asked but unanswered
+  - A character arriving at the worst possible moment
+  - A confession cut short
+  - A camera cut to black after a dramatic beat
+
+Each script line is labelled [E<episode>:L<line> <start>-<end>] with its exact on-screen time (MM:SS.SS). The line text begins with its element type (CAMERA:, ACTION:, a SPEAKER name, SOUND FX:).
+
+Return JSON exactly like:
+{"anchors": [{"anchor_id": "A1", "type": "hook", "episode": 1, "line": 6, "description": "short reason"}]}
+
+If there are no strong anchors return {"anchors": []}. Return at least 3 strong anchors per episode in this chunk if they exist.
+
+SCRIPT CHUNK:
+{{CHUNK}}
